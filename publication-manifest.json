@@ -40,7 +40,7 @@
       "source": "tests/LiveProbe.cs",
       "published": "example/tests/LiveProbe.cs",
       "source_sha256": "af0acf91b3583c61bfb6f5d1aca94067ef75626e5ffeae3f5a1761dfdb440a44",
-      "published_sha256": "af0acf91b3583c61bfb6f5d1aca94067ef75626e5ffeae3f5a1761dfdb440a44"
+      "published_sha256": "97b45610f19b62cfd6bb3ee700ed21bee246c14aa155b76c9c697ed241919985"
     },
     {
       "source": "tests/LiveProbePatcher.cs",
@@ -166,7 +166,7 @@
       "source": "tools/inspect-bridge-side.py",
       "published": "example/tools/inspect-bridge-side.py",
       "source_sha256": "521a45be159dc498439ea67f223dec2ce77450c7534b624bf4c6bad64d0ad6f0",
-      "published_sha256": "521a45be159dc498439ea67f223dec2ce77450c7534b624bf4c6bad64d0ad6f0"
+      "published_sha256": "515b57a5979d3dc4a00fa7f8827eea58d9c067280250dfd79e9992516e56bb57"
     },
     {
       "source": "tools/inspect-donor-bones.py",
@@ -196,7 +196,7 @@
       "source": "tools/inspect-kitbash-deck.py",
       "published": "example/tools/inspect-kitbash-deck.py",
       "source_sha256": "084399cbe37e96e4311724a7e154b8ad263f1fd1532aa5db1a41b6a55e830c3a",
-      "published_sha256": "084399cbe37e96e4311724a7e154b8ad263f1fd1532aa5db1a41b6a55e830c3a"
+      "published_sha256": "e60d0c98530de64a2373e4f8db09cf07ddf756273d3af57f9025aed806b81b7a"
     },
     {
       "source": "tools/inspect-kitbash-service-pod.py",
@@ -280,7 +280,7 @@
       "source": "release/KhaanephAssaultCruiser-1.1.0.zip.sha256",
       "published": "example/release/KhaanephAssaultCruiser-1.1.0.zip.sha256",
       "source_sha256": "f0e9b6c01565bfaf5f15ba643c80c6ff6a6c87166dd1e63070cb7a6cd685e4e8",
-      "published_sha256": "f0e9b6c01565bfaf5f15ba643c80c6ff6a6c87166dd1e63070cb7a6cd685e4e8"
+      "published_sha256": "c2b042d1d2e13ff76fe2b270453190a0b8800f6c03ac23222d65bf3ce6cd5c04"
     },
     {
       "source": "tools/bepinex/BepInEx_win_x64_5.4.23.4.zip",
@@ -346,7 +346,7 @@
       "source": "evidence/models/kitbash-verification.json",
       "published": "example/evidence/models/kitbash-verification.json",
       "source_sha256": "ac07081eef60b5945b1f612c2f86d08c82650678dad2a33d6391301ab302254d",
-      "published_sha256": "ac07081eef60b5945b1f612c2f86d08c82650678dad2a33d6391301ab302254d"
+      "published_sha256": "342a16aa74ec8457c4762ead6a1089e3c041325ef68750e7a505ef00a878fb45"
     },
     {
       "source": "evidence/models/native-animation-contracts.json",
@@ -510,5 +510,6 @@
       "source_sha256": "158e9c66b6cb995dbb2421d5776e097636f9f185b95b7ff82f8b3e460c499ecc",
       "published_sha256": "8237553506d930aef123feb0197c03f61fdbb8743ce0837fc3a7a5d609bb4ab5"
     }
-  ]
+  ],
+  "published_hash_basis": "Git blob bytes after line-ending normalization; source hashes refer to the original research workspace bytes."
 }
