@@ -28,7 +28,7 @@ The [example](example/README.md) includes the original mod source, build/test an
 
 The mod transfers the Assault Cruiser from Coalition/Soban to Khaaneph, replacing the Honor Guard slot. It has an angular custom Khaaneph kitbash, **3650 HP**, native passive self-repair, an Assault Ship research prerequisite and an anti-air upgrade. Main command/production/research callbacks use existing generic Khaaneph recordings. Campaign definitions are restored separately.
 
-**Supported target:** Windows x64 Steam build **12339551**, Unity **5.2.2f1 / Mono**, with the Khaaneph DLC owned and installed. The installer verifies expected game-file hashes. Other releases/platforms are not established as compatible.
+**Supported target:** Windows x64, Unity **5.2.2f1 / Mono**, with the Khaaneph DLC owned and installed. The installer verifies expected game-file hashes. Other releases/platforms are not established as compatible.
 
 For players, download/extract the example ZIP, read `INSTALL.txt`, close the game, then run its `install.ps1` with the correct game path. For developers, follow [example/README.md](example/README.md) to prepare dependencies and build against your own installed game assemblies.
 
