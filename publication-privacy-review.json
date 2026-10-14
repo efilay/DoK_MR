@@ -1,10 +1,11 @@
 {
-  "tracked_files_scanned": 104,
+  "tracked_files_scanned": 112,
   "zip_entries_scanned": 83,
   "personal_name_or_path_matches": 0,
   "credential_pattern_matches": 0,
   "commit_identity": "DoK_MR <noreply@example.invalid>",
   "png_metadata_removed_without_pixel_changes": true,
   "model_metadata_sanitized_and_roundtrips_verified": true,
+  "video_has_no_personal_attribution_or_audio": true,
   "note": "Repository ownership remains visible on GitHub as explicitly requested. Third-party author/license attribution is preserved."
 }

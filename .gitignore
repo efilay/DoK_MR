@@ -8,6 +8,8 @@ example/tools/bepinex/5.4.23.4/
 example/work/
 example/evidence/code/verification/
 example/assets/voices/
+example/tools/showcase/*.dll
+example/tools/showcase/ShowcasePatcher.cs
 __pycache__/
 *.pyc
 *.blend1

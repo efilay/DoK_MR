@@ -22,6 +22,8 @@ The [native API index](docs/Native-API-Index.md) gives original summaries and di
 
 ![Khaaneph Assault Cruiser rendered by the game](example/evidence/models/game-match-round-0.png)
 
+**[Watch the silent build / move / fire showcase](example/media/Khaaneph-Assault-Cruiser-showcase.mp4)** — 15.46 seconds, 960×540, about 1.6 MB. This is accelerated, staged offline game footage. [Recording details](example/media/README.md).
+
 The [example](example/README.md) includes the original mod source, build/test and model authoring tools, editable Blender/GLB/FBX files, selected research evidence, and the **[1.1.0 installation ZIP](example/release/KhaanephAssaultCruiser-1.1.0.zip)** with its [SHA-256](example/release/KhaanephAssaultCruiser-1.1.0.zip.sha256).
 
 The mod transfers the Assault Cruiser from Coalition/Soban to Khaaneph, replacing the Honor Guard slot. It has an angular custom Khaaneph kitbash, **3650 HP**, native passive self-repair, an Assault Ship research prerequisite and an anti-air upgrade. Main command/production/research callbacks use existing generic Khaaneph recordings. Campaign definitions are restored separately.
