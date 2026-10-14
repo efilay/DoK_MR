@@ -1,0 +1,34 @@
+{
+  "verified_at": "2026-10-13T18:47:00.064358+00:00",
+  "native_run_start": "2026-10-13T18:17:44.0882441Z",
+  "native_run_end": "2026-10-13T18:23:08.8801977Z",
+  "all_assertions_passed": true,
+  "khaaneph_aa_callbacks": 2,
+  "shader_reload_checks": 60,
+  "custom_geometry": {
+    "parts": 5,
+    "lods": 3,
+    "bones": 57
+  },
+  "animation": [
+    "2026-10-13T18:17:50.0090625Z Native clip skinning PASS: doors=4.728488; recoil=4.138533; steering angle=12.33847; 15 renderers and 57 bindings",
+    "2026-10-13T18:19:37.7893759Z Live missile controller delta=0.1623812 state=1825828149 norm=0.664422",
+    "2026-10-13T18:19:38.1913544Z Live cannon controller delta=4.286891",
+    "2026-10-13T18:19:38.7656771Z Live stabilizer steering angle=12.33847"
+  ],
+  "voices": [
+    "2026-10-13T18:19:19.5455170Z Native Assault audio clip: Audio/VO/English/Coalition/OpsFleet/vo_coalition_opsfleet_rsh_opscasgengen_t1_12177 -> vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13281_alt01",
+    "2026-10-13T18:19:35.6691417Z Native Assault audio clip: Audio/VO/English/Coalition/Cruiser_Assault/vo_coalition_cruiser_sel_casgengengen_t1_11607 -> vo_khaaneph_cruiser_sel_cbtgengengen_t1_9504",
+    "2026-10-13T18:19:35.7338316Z Native Assault audio clip: Audio/VO/English/Coalition/OpsFleet/vo_coalition_opsfleet_prc_opscasgengen_t1_10609 -> vo_khaaneph_cruiser_sel_cbtgengengen_t1_9505",
+    "2026-10-13T18:19:51.8258441Z Native AA voice PASS: Khaaneph generic upgrade response served: vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13301_alt01",
+    "2026-10-13T18:19:51.8268810Z Native Assault audio clip: Audio/VO/English/Coalition/OpsFleet/vo_coalition_opsfleet_upg_opsacagengen_t1_12202 -> vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13301_alt01",
+    "2026-10-13T18:21:42.2464219Z Native Assault audio clip: Audio/VO/English/Coalition/OpsFleet/vo_coalition_opsfleet_rsh_opscasgengen_t1_12177 -> vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13281_alt01",
+    "2026-10-13T18:22:14.7703799Z Native AA voice PASS: Khaaneph generic upgrade response served: vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13301_alt01"
+  ],
+  "limits": [
+    "No real multiplayer peer test",
+    "No campaign mission played",
+    "Rare combat-status and ability recordings retain original Assault dialogue",
+    "Original Assault carcass retained"
+  ]
+}

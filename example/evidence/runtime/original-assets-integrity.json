@@ -1,0 +1,22 @@
+[
+  {
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Deserts of Kharak\\Data\\sharedassets0.assets",
+    "sha256": "dfb98a6c0628e1a3611c1e84ee91719721b5960d35c8e5810adc699f4b71eb74",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Deserts of Kharak\\Data\\resources.assets",
+    "sha256": "dcc8c12d3dee2ea41adf263140378d9f5e5855ea5857b24dbc43395a828c9171",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Deserts of Kharak\\Bundles\\dlc\\dlc0001",
+    "sha256": "2d9e465475df7afbba01458e1f7330e13bcb3a032b2fda74ea6b5c434edb4217",
+    "unchanged": true
+  },
+  {
+    "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Deserts of Kharak\\Bundles\\dlc\\dlc0002",
+    "sha256": "459a264b3b094a16fd1613d463546834628249511ba051a9fc21598bb2a6cc3a",
+    "unchanged": true
+  }
+]

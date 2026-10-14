@@ -1,0 +1,61 @@
+KHAANEPH ASSAULT CRUISER - VERSION 1.1.0
+
+Includes the DLL patch, loader, custom animated model, textures, installer
+and uninstaller. No Blender, Python or development tools are needed.
+
+REQUIREMENTS
+Windows 64-bit and the supported Steam Deserts of Kharak build 12339551.
+The installer verifies the actual game files before making changes.
+Khaaneph DLC ownership is required to select the faction.
+
+INSTALL
+1. Extract the ZIP completely. Open the extracted KhaanephAssaultCruiser
+   folder, which contains install.ps1, manifest.json and the payload folder.
+2. Close Deserts of Kharak.
+3. Open PowerShell as Administrator and change to that extracted folder.
+4. Run the command below, replacing the game path with the other PC's path:
+
+   powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\install.ps1 -GamePath "D:\SteamLibrary\steamapps\common\Deserts of Kharak"
+
+   For the default Steam location, you can omit -GamePath:
+
+   powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\install.ps1
+
+5. Launch the game normally through Steam. Wait until platform login and
+   menu loading finish, then select Khaaneph in skirmish/fleet customization.
+
+The installer copies the DLL loader and assets beside the game. Original
+game executables, managed assemblies and asset archives remain unchanged.
+It refuses an unsupported build or a conflicting loader it does not own.
+
+TEST
+- Fleet preview: Khaaneph Assault Cruiser, textured angular hull and jaw,
+  white turret caps and no decorative pod.
+- Research: Sandskimmer -> Assault Ship -> Assault Cruiser fabrication.
+- Build: 3650 HP and passive self-repair; no active repair button.
+- Research anti-air, then check the existing cruiser's AA weapon.
+- Return to the menu and start a second match: model, textures and research
+  should persist after the reload.
+- Coalition/Soban: no Assault Cruiser or its dedicated research.
+
+Standard command, production and research responses use existing Khaaneph
+recordings. Rare combat/ability barks and the wreck model remain stock.
+Campaign definitions are restored. Real multiplayer peer testing is pending;
+all participants must install the same version and restart the game.
+
+UNINSTALL
+Close the game. From this folder in Administrator PowerShell, run:
+
+   powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\uninstall.ps1 -GamePath "D:\SteamLibrary\steamapps\common\Deserts of Kharak"
+
+Use the same game path as installation. Uninstall verifies ownership/hashes
+and removes only files installed by this patch.
+
+LOGS FOR TROUBLESHOOTING
+Inside the game folder:
+  BepInEx\KhaanephCruiser.log
+  BepInEx\KhaanephCruiser.preloader.log
+  Data\output_log.txt
+
+README.md explains the gameplay changes. runtime-validation.md records the
+local verification and its limits. model-support.md explains the model setup.

@@ -1,0 +1,206 @@
+2026-10-13T18:17:44.0882441Z Started live probe; waiting for native preview content
+2026-10-13T18:17:49.8215492Z Render material KAC_Khaaneph burnt orange retained hull shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/K_AssaultCruiser_HullPaint.png
+2026-10-13T18:17:49.8215492Z Render material KAC_White Assault Cruiser turret caps shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_01.png
+2026-10-13T18:17:49.8225492Z Render material KAC_MAT_Spongs shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_06.png
+2026-10-13T18:17:49.8225492Z Render material KAC_MAT_Gack shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_10.png
+2026-10-13T18:17:49.8235499Z Render material KAC_MAT_DLC0002_Unit_G_ArtilleryCruiser.001 shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_27.png
+2026-10-13T18:17:49.8235499Z Render material KAC_Exposed dark frame shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_Steel
+2026-10-13T18:17:49.8235499Z Render material KAC_MAT_DLC0002_Unit_G_SupportCruiser shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_32.png
+2026-10-13T18:17:49.8245493Z Render material KAC_MAT_DLC0002_Spongs shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_19.png
+2026-10-13T18:17:49.8245493Z Render material KAC_MAT_DLC0002_Unit_G_SupportCruiser shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_32.png
+2026-10-13T18:17:49.8255491Z Render material KAC_MAT_DLC0002_Spongs shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_19.png
+2026-10-13T18:17:49.8255491Z Render material KAC_Exposed dark frame shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_Steel
+2026-10-13T18:17:49.8255491Z Render material KAC_MAT_DLC0002_Unit_G_SupportCruiser shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_32.png
+2026-10-13T18:17:50.0015220Z Native render saved: preview-round-0; bounds=Center: (331.1, 102.2, 3389.8), Extents: (68.9, 19.5, 60.7)
+2026-10-13T18:17:50.0090625Z Native clip skinning PASS: doors=4.728488; recoil=4.138533; steering angle=12.33847; 15 renderers and 57 bindings
+2026-10-13T18:17:50.0096291Z Preview round 0 PASS: K instance=230048; instantiated model=Unit_G_BattleCruiser; native camera render target present
+2026-10-13T18:17:51.4051289Z Loading native skirmish round 0: map=MP_05-Teeth; commanders=2
+2026-10-13T18:18:34.7725515Z Native tooltip PASS: actual UILabel text=Heavy assault cruiser with autocannons, guided missiles, armor boost and an anti-aircraft upgrade. Khaaneph passive self-repair restores 48 HP per second after 10 seconds without taking damage.
+2026-10-13T18:18:34.8071177Z Commander tree PASS: Khaaneph; branches=17
+2026-10-13T18:18:34.8071177Z Commander tree PASS: Coalition; branches=13
+2026-10-13T18:18:34.8121171Z Native research START: Tier_1_G_Sandskimmers; frame=5
+2026-10-13T18:18:35.0865663Z Native HUD research button PASS: Tier_1_G_Sandskimmers
+2026-10-13T18:18:35.0875662Z Native HUD research button PASS: Research_Buff_K_AssaultCruiser_AntiAir
+2026-10-13T18:18:37.1265628Z Sim round=0 stage=1 frame=80 pending=Tier_1_G_Sandskimmers
+2026-10-13T18:18:39.6083879Z Sim round=0 stage=1 frame=160 pending=Tier_1_G_Sandskimmers
+2026-10-13T18:18:42.0859824Z Sim round=0 stage=1 frame=240 pending=Tier_1_G_Sandskimmers
+2026-10-13T18:18:43.4811143Z Native research COMPLETE: Tier_1_G_Sandskimmers; frame=285
+2026-10-13T18:18:43.5115031Z Native research START: Tier_1_G_Catamaran; frame=286
+2026-10-13T18:18:43.5766370Z Native HUD research button PASS: Tier_1_G_Catamaran
+2026-10-13T18:18:44.5669275Z Sim round=0 stage=2 frame=320 pending=Tier_1_G_Catamaran
+2026-10-13T18:18:47.0470352Z Sim round=0 stage=2 frame=400 pending=Tier_1_G_Catamaran
+2026-10-13T18:18:49.5284977Z Sim round=0 stage=2 frame=480 pending=Tier_1_G_Catamaran
+2026-10-13T18:18:52.0070782Z Sim round=0 stage=2 frame=560 pending=Tier_1_G_Catamaran
+2026-10-13T18:18:54.4868954Z Sim round=0 stage=2 frame=640 pending=Tier_1_G_Catamaran
+2026-10-13T18:18:56.9674737Z Sim round=0 stage=2 frame=720 pending=Tier_1_G_Catamaran
+2026-10-13T18:18:59.4466566Z Sim round=0 stage=2 frame=800 pending=Tier_1_G_Catamaran
+2026-10-13T18:18:59.6328750Z Native research COMPLETE: Tier_1_G_Catamaran; frame=806
+2026-10-13T18:18:59.6639222Z Native research START: Tier_3_K_AssaultCruiser; frame=807
+2026-10-13T18:18:59.8322321Z Native HUD research button PASS: Tier_3_K_AssaultCruiser
+2026-10-13T18:19:01.9283797Z Sim round=0 stage=3 frame=880 pending=Tier_3_K_AssaultCruiser
+2026-10-13T18:19:04.4085237Z Sim round=0 stage=3 frame=960 pending=Tier_3_K_AssaultCruiser
+2026-10-13T18:19:06.8906842Z Sim round=0 stage=3 frame=1040 pending=Tier_3_K_AssaultCruiser
+2026-10-13T18:19:09.3706457Z Sim round=0 stage=3 frame=1120 pending=Tier_3_K_AssaultCruiser
+2026-10-13T18:19:11.8488564Z Sim round=0 stage=3 frame=1200 pending=Tier_3_K_AssaultCruiser
+2026-10-13T18:19:14.3292199Z Sim round=0 stage=3 frame=1280 pending=Tier_3_K_AssaultCruiser
+2026-10-13T18:19:16.8074963Z Sim round=0 stage=3 frame=1360 pending=Tier_3_K_AssaultCruiser
+2026-10-13T18:19:19.2902554Z Sim round=0 stage=3 frame=1440 pending=Tier_3_K_AssaultCruiser
+2026-10-13T18:19:19.5051901Z Native research COMPLETE: Tier_3_K_AssaultCruiser; frame=1447
+2026-10-13T18:19:19.5384923Z Native carrier production requested
+2026-10-13T18:19:19.5455170Z Native Assault audio clip: Audio/VO/English/Coalition/OpsFleet/vo_coalition_opsfleet_rsh_opscasgengen_t1_12177 -> vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13281_alt01
+2026-10-13T18:19:21.7665387Z Sim round=0 stage=4 frame=1520 pending=Production
+2026-10-13T18:19:24.3358385Z Sim round=0 stage=4 frame=1600 pending=Production
+2026-10-13T18:19:26.7275027Z Sim round=0 stage=4 frame=1680 pending=Production
+2026-10-13T18:19:29.2102983Z Sim round=0 stage=4 frame=1760 pending=Production
+2026-10-13T18:19:31.6880159Z Sim round=0 stage=4 frame=1840 pending=Production
+2026-10-13T18:19:34.1677362Z Sim round=0 stage=4 frame=1920 pending=Production
+2026-10-13T18:19:35.6601413Z Native AA prerequisite PASS: produced cruiser air weapon disabled before upgrade
+2026-10-13T18:19:35.6691417Z Native Assault audio clip: Audio/VO/English/Coalition/Cruiser_Assault/vo_coalition_cruiser_sel_casgengengen_t1_11607 -> vo_khaaneph_cruiser_sel_cbtgengengen_t1_9504
+2026-10-13T18:19:35.6881406Z Native research START: Research_Buff_K_AssaultCruiser_AntiAir; frame=1969
+2026-10-13T18:19:35.7338316Z Native Assault audio clip: Audio/VO/English/Coalition/OpsFleet/vo_coalition_opsfleet_prc_opscasgengen_t1_10609 -> vo_khaaneph_cruiser_sel_cbtgengengen_t1_9505
+2026-10-13T18:19:35.8223661Z Native voice PASS: original event semantics retained, actual Khaaneph recording served
+2026-10-13T18:19:35.8757346Z Render material KAC_Khaaneph burnt orange retained hull shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/K_AssaultCruiser_HullPaint.png
+2026-10-13T18:19:35.8767005Z Render material KAC_White Assault Cruiser turret caps shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_01.png
+2026-10-13T18:19:35.8767005Z Render material KAC_MAT_Spongs shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_06.png
+2026-10-13T18:19:35.8776990Z Render material KAC_MAT_Gack shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_10.png
+2026-10-13T18:19:35.8776990Z Render material KAC_MAT_DLC0002_Unit_G_ArtilleryCruiser.001 shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_27.png
+2026-10-13T18:19:35.8786991Z Render material KAC_Exposed dark frame shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_Steel
+2026-10-13T18:19:35.8786991Z Render material KAC_MAT_DLC0002_Unit_G_SupportCruiser shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_32.png
+2026-10-13T18:19:35.8796991Z Render material KAC_MAT_DLC0002_Spongs shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_19.png
+2026-10-13T18:19:35.8796991Z Render material KAC_MAT_DLC0002_Unit_G_SupportCruiser shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_32.png
+2026-10-13T18:19:35.8806994Z Render material KAC_MAT_DLC0002_Spongs shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_19.png
+2026-10-13T18:19:35.8806994Z Render material KAC_Exposed dark frame shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_Steel
+2026-10-13T18:19:35.8816995Z Render material KAC_MAT_DLC0002_Unit_G_SupportCruiser shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_32.png
+2026-10-13T18:19:35.9802397Z Native render saved: match-round-0; bounds=Center: (-1527.9, 124.3, -2414.2), Extents: (61.8, 20.0, 36.6)
+2026-10-13T18:19:35.9811874Z Live cruiser animator: initialized=True active=True enabled=True speed=1 timescale=1 avatar=null
+2026-10-13T18:19:36.5143965Z Live clone initialized=True norm=1.850354
+2026-10-13T18:19:36.6490352Z Sim round=0 stage=5 frame=2000 pending=Research_Buff_K_AssaultCruiser_AntiAir
+2026-10-13T18:19:37.7893759Z Live missile controller delta=0.1623812 state=1825828149 norm=0.664422
+2026-10-13T18:19:38.1913544Z Live cannon controller delta=4.286891
+2026-10-13T18:19:38.7656771Z Live stabilizer steering angle=12.33847
+2026-10-13T18:19:38.7656771Z Model animation PASS: native match initialization, live controller missile doors, cannon recoil and stabilizer steering
+2026-10-13T18:19:39.1299984Z Sim round=0 stage=5 frame=2080 pending=Research_Buff_K_AssaultCruiser_AntiAir
+2026-10-13T18:19:41.6110080Z Sim round=0 stage=5 frame=2160 pending=Research_Buff_K_AssaultCruiser_AntiAir
+2026-10-13T18:19:44.0893055Z Sim round=0 stage=5 frame=2240 pending=Research_Buff_K_AssaultCruiser_AntiAir
+2026-10-13T18:19:46.5739816Z Sim round=0 stage=5 frame=2320 pending=Research_Buff_K_AssaultCruiser_AntiAir
+2026-10-13T18:19:49.0498673Z Sim round=0 stage=5 frame=2400 pending=Research_Buff_K_AssaultCruiser_AntiAir
+2026-10-13T18:19:51.5289546Z Sim round=0 stage=5 frame=2480 pending=Research_Buff_K_AssaultCruiser_AntiAir
+2026-10-13T18:19:51.8074495Z Native research COMPLETE: Research_Buff_K_AssaultCruiser_AntiAir; frame=2489
+2026-10-13T18:19:51.8258441Z Native AA voice PASS: Khaaneph generic upgrade response served: vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13301_alt01
+2026-10-13T18:19:51.8268810Z Native Assault audio clip: Audio/VO/English/Coalition/OpsFleet/vo_coalition_opsfleet_upg_opsacagengen_t1_12202 -> vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13301_alt01
+2026-10-13T18:19:51.8408430Z Produced cruiser PASS: HP=3650; owner=1; checking passive AA activation
+2026-10-13T18:19:54.0097478Z Sim round=0 stage=7 frame=2560 pending=
+2026-10-13T18:19:54.0720103Z Native AA upgrade PASS: existing cruiser passive active and AA_RIGHT weapon enabled
+2026-10-13T18:19:54.0730147Z Passive repair PASS: no healing after nine seconds
+2026-10-13T18:19:55.0639063Z Passive repair PASS: frame=2594; damaged=2000; now=2144
+2026-10-13T18:19:56.4892157Z Sim round=0 stage=9 frame=2640 pending=
+2026-10-13T18:19:58.2876219Z PASS simulation: actual research/HUD chain, carrier production, HP, ownership, existing-cruiser AA weapon unlock, passive delay/interruption/resume
+2026-10-13T18:19:58.3089880Z Simulation round 0 PASS; returning through native level unload
+2026-10-13T18:20:06.9873960Z Render material KAC_Khaaneph burnt orange retained hull shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/K_AssaultCruiser_HullPaint.png
+2026-10-13T18:20:06.9883961Z Render material KAC_White Assault Cruiser turret caps shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_01.png
+2026-10-13T18:20:06.9883961Z Render material KAC_MAT_Spongs shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_06.png
+2026-10-13T18:20:06.9893963Z Render material KAC_MAT_Gack shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_10.png
+2026-10-13T18:20:06.9903942Z Render material KAC_MAT_DLC0002_Unit_G_ArtilleryCruiser.001 shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_27.png
+2026-10-13T18:20:06.9903942Z Render material KAC_Exposed dark frame shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_Steel
+2026-10-13T18:20:06.9913966Z Render material KAC_MAT_DLC0002_Unit_G_SupportCruiser shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_32.png
+2026-10-13T18:20:06.9913966Z Render material KAC_MAT_DLC0002_Spongs shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_19.png
+2026-10-13T18:20:06.9923962Z Render material KAC_MAT_DLC0002_Unit_G_SupportCruiser shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_32.png
+2026-10-13T18:20:06.9923962Z Render material KAC_MAT_DLC0002_Spongs shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_19.png
+2026-10-13T18:20:06.9933936Z Render material KAC_Exposed dark frame shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_Steel
+2026-10-13T18:20:06.9933936Z Render material KAC_MAT_DLC0002_Unit_G_SupportCruiser shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_32.png
+2026-10-13T18:20:07.0843441Z Native render saved: preview-round-1; bounds=Center: (331.1, 102.2, 3389.8), Extents: (68.9, 19.5, 60.7)
+2026-10-13T18:20:07.0843441Z Preview round 1 PASS: K instance=499030; instantiated model=Unit_G_BattleCruiser; native camera render target present
+2026-10-13T18:20:09.6172700Z Loading native skirmish round 1: map=MP_16-Firebase; commanders=4
+2026-10-13T18:20:57.5261835Z Sim round=1 stage=0 frame=5 pending=
+2026-10-13T18:20:57.5261835Z Commander tree PASS: Khaaneph; branches=17
+2026-10-13T18:20:57.5271521Z Commander tree PASS: Coalition; branches=13
+2026-10-13T18:20:57.5271521Z Commander tree PASS: Gaalsi_MP; branches=17
+2026-10-13T18:20:57.5281523Z Commander tree PASS: SobanTechTree; branches=12
+2026-10-13T18:20:57.5291513Z Native research START: Tier_1_G_Sandskimmers; frame=5
+2026-10-13T18:20:57.8013645Z Native HUD research button PASS: Tier_1_G_Sandskimmers
+2026-10-13T18:20:57.8023634Z Native HUD research button PASS: Research_Buff_K_AssaultCruiser_AntiAir
+2026-10-13T18:21:00.0076607Z Sim round=1 stage=1 frame=85 pending=Tier_1_G_Sandskimmers
+2026-10-13T18:21:02.4885833Z Sim round=1 stage=1 frame=165 pending=Tier_1_G_Sandskimmers
+2026-10-13T18:21:04.9698391Z Sim round=1 stage=1 frame=245 pending=Tier_1_G_Sandskimmers
+2026-10-13T18:21:06.2112166Z Native research COMPLETE: Tier_1_G_Sandskimmers; frame=285
+2026-10-13T18:21:06.2392151Z Native research START: Tier_1_G_Catamaran; frame=286
+2026-10-13T18:21:06.5949052Z Native HUD research button PASS: Tier_1_G_Catamaran
+2026-10-13T18:21:07.4483090Z Sim round=1 stage=2 frame=325 pending=Tier_1_G_Catamaran
+2026-10-13T18:21:09.9257721Z Sim round=1 stage=2 frame=405 pending=Tier_1_G_Catamaran
+2026-10-13T18:21:12.4071577Z Sim round=1 stage=2 frame=485 pending=Tier_1_G_Catamaran
+2026-10-13T18:21:14.8868490Z Sim round=1 stage=2 frame=565 pending=Tier_1_G_Catamaran
+2026-10-13T18:21:17.3679589Z Sim round=1 stage=2 frame=645 pending=Tier_1_G_Catamaran
+2026-10-13T18:21:19.8452635Z Sim round=1 stage=2 frame=725 pending=Tier_1_G_Catamaran
+2026-10-13T18:21:22.3309686Z Sim round=1 stage=2 frame=805 pending=Tier_1_G_Catamaran
+2026-10-13T18:21:22.3579022Z Native research COMPLETE: Tier_1_G_Catamaran; frame=806
+2026-10-13T18:21:22.3898699Z Native research START: Tier_3_K_AssaultCruiser; frame=807
+2026-10-13T18:21:22.5292141Z Native HUD research button PASS: Tier_3_K_AssaultCruiser
+2026-10-13T18:21:24.8108068Z Sim round=1 stage=3 frame=885 pending=Tier_3_K_AssaultCruiser
+2026-10-13T18:21:27.2876882Z Sim round=1 stage=3 frame=965 pending=Tier_3_K_AssaultCruiser
+2026-10-13T18:21:29.7724776Z Sim round=1 stage=3 frame=1045 pending=Tier_3_K_AssaultCruiser
+2026-10-13T18:21:32.2479846Z Sim round=1 stage=3 frame=1125 pending=Tier_3_K_AssaultCruiser
+2026-10-13T18:21:34.7247312Z Sim round=1 stage=3 frame=1205 pending=Tier_3_K_AssaultCruiser
+2026-10-13T18:21:37.2067592Z Sim round=1 stage=3 frame=1285 pending=Tier_3_K_AssaultCruiser
+2026-10-13T18:21:39.6875547Z Sim round=1 stage=3 frame=1365 pending=Tier_3_K_AssaultCruiser
+2026-10-13T18:21:42.1693548Z Sim round=1 stage=3 frame=1445 pending=Tier_3_K_AssaultCruiser
+2026-10-13T18:21:42.2288394Z Native research COMPLETE: Tier_3_K_AssaultCruiser; frame=1447
+2026-10-13T18:21:42.2464219Z Native Assault audio clip: Audio/VO/English/Coalition/OpsFleet/vo_coalition_opsfleet_rsh_opscasgengen_t1_12177 -> vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13281_alt01
+2026-10-13T18:21:42.2624252Z Native carrier production requested
+2026-10-13T18:21:44.6486635Z Sim round=1 stage=4 frame=1525 pending=Production
+2026-10-13T18:21:47.1286855Z Sim round=1 stage=4 frame=1605 pending=Production
+2026-10-13T18:21:49.6090829Z Sim round=1 stage=4 frame=1685 pending=Production
+2026-10-13T18:21:52.0877483Z Sim round=1 stage=4 frame=1765 pending=Production
+2026-10-13T18:21:54.5682794Z Sim round=1 stage=4 frame=1845 pending=Production
+2026-10-13T18:21:57.0471304Z Sim round=1 stage=4 frame=1925 pending=Production
+2026-10-13T18:21:58.3825059Z Native AA prerequisite PASS: produced cruiser air weapon disabled before upgrade
+2026-10-13T18:21:58.4137347Z Native research START: Research_Buff_K_AssaultCruiser_AntiAir; frame=1969
+2026-10-13T18:21:59.5291206Z Sim round=1 stage=5 frame=2005 pending=Research_Buff_K_AssaultCruiser_AntiAir
+2026-10-13T18:22:02.0084618Z Sim round=1 stage=5 frame=2085 pending=Research_Buff_K_AssaultCruiser_AntiAir
+2026-10-13T18:22:04.4900567Z Sim round=1 stage=5 frame=2165 pending=Research_Buff_K_AssaultCruiser_AntiAir
+2026-10-13T18:22:06.9715282Z Sim round=1 stage=5 frame=2245 pending=Research_Buff_K_AssaultCruiser_AntiAir
+2026-10-13T18:22:09.4509356Z Sim round=1 stage=5 frame=2325 pending=Research_Buff_K_AssaultCruiser_AntiAir
+2026-10-13T18:22:11.9302445Z Sim round=1 stage=5 frame=2405 pending=Research_Buff_K_AssaultCruiser_AntiAir
+2026-10-13T18:22:14.4137014Z Sim round=1 stage=5 frame=2485 pending=Research_Buff_K_AssaultCruiser_AntiAir
+2026-10-13T18:22:14.5365023Z Native research COMPLETE: Research_Buff_K_AssaultCruiser_AntiAir; frame=2489
+2026-10-13T18:22:14.7302614Z Produced cruiser PASS: HP=3650; owner=1; checking passive AA activation
+2026-10-13T18:22:14.7703799Z Native AA voice PASS: Khaaneph generic upgrade response served: vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13301_alt01
+2026-10-13T18:22:16.7985972Z Native AA upgrade PASS: existing cruiser passive active and AA_RIGHT weapon enabled
+2026-10-13T18:22:16.7991218Z Passive repair PASS: no healing after nine seconds
+2026-10-13T18:22:16.8935406Z Sim round=1 stage=8 frame=2565 pending=
+2026-10-13T18:22:17.7883557Z Passive repair PASS: frame=2594; damaged=2000; now=2144
+2026-10-13T18:22:19.3753986Z Sim round=1 stage=9 frame=2645 pending=
+2026-10-13T18:22:21.0135474Z PASS simulation: actual research/HUD chain, carrier production, HP, ownership, existing-cruiser AA weapon unlock, passive delay/interruption/resume
+2026-10-13T18:22:21.0631074Z Simulation round 1 PASS; returning through native level unload
+2026-10-13T18:22:31.3341806Z Render material KAC_Khaaneph burnt orange retained hull shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/K_AssaultCruiser_HullPaint.png
+2026-10-13T18:22:31.3352193Z Render material KAC_White Assault Cruiser turret caps shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_01.png
+2026-10-13T18:22:31.3361815Z Render material KAC_MAT_Spongs shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_06.png
+2026-10-13T18:22:31.3371811Z Render material KAC_MAT_Gack shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_10.png
+2026-10-13T18:22:31.3371811Z Render material KAC_MAT_DLC0002_Unit_G_ArtilleryCruiser.001 shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_27.png
+2026-10-13T18:22:31.3381810Z Render material KAC_Exposed dark frame shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_Steel
+2026-10-13T18:22:31.3391847Z Render material KAC_MAT_DLC0002_Unit_G_SupportCruiser shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_32.png
+2026-10-13T18:22:31.3401826Z Render material KAC_MAT_DLC0002_Spongs shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_19.png
+2026-10-13T18:22:31.3410831Z Render material KAC_MAT_DLC0002_Unit_G_SupportCruiser shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_32.png
+2026-10-13T18:22:31.3421628Z Render material KAC_MAT_DLC0002_Spongs shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_19.png
+2026-10-13T18:22:31.3421628Z Render material KAC_Exposed dark frame shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_Steel
+2026-10-13T18:22:31.3431450Z Render material KAC_MAT_DLC0002_Unit_G_SupportCruiser shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_32.png
+2026-10-13T18:22:31.4442480Z Native render saved: preview-round-2; bounds=Center: (331.1, 102.2, 3389.8), Extents: (68.9, 19.5, 60.7)
+2026-10-13T18:22:31.4442480Z Preview round 2 PASS: K instance=802394; instantiated model=Unit_G_BattleCruiser; native camera render target present
+2026-10-13T18:22:31.6123220Z Loading native skirmish round 2: map=MP_05-Teeth; commanders=2
+2026-10-13T18:23:01.2052231Z No-Khaaneph match PASS: stale DLC references cleared; Coalition removal retained
+2026-10-13T18:23:01.2612275Z Simulation round 2 PASS; returning through native level unload
+2026-10-13T18:23:08.7783379Z Render material KAC_Khaaneph burnt orange retained hull shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/K_AssaultCruiser_HullPaint.png
+2026-10-13T18:23:08.7793374Z Render material KAC_White Assault Cruiser turret caps shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_01.png
+2026-10-13T18:23:08.7793374Z Render material KAC_MAT_Spongs shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_06.png
+2026-10-13T18:23:08.7803374Z Render material KAC_MAT_Gack shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_10.png
+2026-10-13T18:23:08.7803374Z Render material KAC_MAT_DLC0002_Unit_G_ArtilleryCruiser.001 shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_27.png
+2026-10-13T18:23:08.7803374Z Render material KAC_Exposed dark frame shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_Steel
+2026-10-13T18:23:08.7813371Z Render material KAC_MAT_DLC0002_Unit_G_SupportCruiser shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_32.png
+2026-10-13T18:23:08.7813371Z Render material KAC_MAT_DLC0002_Spongs shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_19.png
+2026-10-13T18:23:08.7823372Z Render material KAC_MAT_DLC0002_Unit_G_SupportCruiser shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_32.png
+2026-10-13T18:23:08.7823372Z Render material KAC_MAT_DLC0002_Spongs shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_19.png
+2026-10-13T18:23:08.7833371Z Render material KAC_Exposed dark frame shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_Steel
+2026-10-13T18:23:08.7833371Z Render material KAC_MAT_DLC0002_Unit_G_SupportCruiser shader=UNIT (Specular setup) supported=True passes=4 keywords=_NORMALMAP texture=KAC_textures/texture_32.png
+2026-10-13T18:23:08.8711979Z Native render saved: preview-round-3; bounds=Center: (331.1, 102.2, 3389.8), Extents: (68.9, 19.5, 60.7)
+2026-10-13T18:23:08.8721977Z Preview round 3 PASS: K instance=956334; instantiated model=Unit_G_BattleCruiser; native camera render target present
+2026-10-13T18:23:08.8801977Z Campaign registration PASS: original Coalition research/production and HP restored (no campaign mission played)
+2026-10-13T18:23:08.8801977Z PASS: two Khaaneph match cycles, native HUD/AA/repair, no-Khaaneph match, preview reloads and campaign registration restoration

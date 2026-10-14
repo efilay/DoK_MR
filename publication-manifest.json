@@ -1,0 +1,514 @@
+{
+  "project": "DoK_MR",
+  "mod_version": "1.1.0",
+  "generated_by_ai": true,
+  "original_guide_sha256": "846dbed31f2798fa89f36d4d99e8abe9eef94edcb58d4eeb27a76694a4020ccb",
+  "edits": [
+    "Guide paths adapted to repository layout.",
+    "Private decompiled-source links replaced by original API index summaries.",
+    "Local research-user paths normalized in copied text evidence.",
+    "Upstream archives and mod release bytes preserved.",
+    "Personal account attribution removed; commit identity is generic.",
+    "Authoring file paths, stale path buffers and PNG metadata cleaned; model exports reverified."
+  ],
+  "copied_artifacts": [
+    {
+      "source": "src/ModelAssets.cs",
+      "published": "example/src/ModelAssets.cs",
+      "source_sha256": "4e0be2b14abeaa2bda850cc42fef70b0143f4c7d9820de13ce5e3d30904019b3",
+      "published_sha256": "4e0be2b14abeaa2bda850cc42fef70b0143f4c7d9820de13ce5e3d30904019b3"
+    },
+    {
+      "source": "src/NativeVoices.cs",
+      "published": "example/src/NativeVoices.cs",
+      "source_sha256": "31e44342022390354ab1021e2140359b98519b9d2ccb0910d95ff2578a25a58f",
+      "published_sha256": "31e44342022390354ab1021e2140359b98519b9d2ccb0910d95ff2578a25a58f"
+    },
+    {
+      "source": "src/Patcher.cs",
+      "published": "example/src/Patcher.cs",
+      "source_sha256": "f6e139e0a590cc03504e2e0a8642fb1d968e07b40e333a4b6811534f1fcc2d90",
+      "published_sha256": "f6e139e0a590cc03504e2e0a8642fb1d968e07b40e333a4b6811534f1fcc2d90"
+    },
+    {
+      "source": "src/Runtime.cs",
+      "published": "example/src/Runtime.cs",
+      "source_sha256": "17816ec06a33aa52278955fff5067b8df421b7bb25713ecb578e14f2830d4888",
+      "published_sha256": "17816ec06a33aa52278955fff5067b8df421b7bb25713ecb578e14f2830d4888"
+    },
+    {
+      "source": "tests/LiveProbe.cs",
+      "published": "example/tests/LiveProbe.cs",
+      "source_sha256": "af0acf91b3583c61bfb6f5d1aca94067ef75626e5ffeae3f5a1761dfdb440a44",
+      "published_sha256": "af0acf91b3583c61bfb6f5d1aca94067ef75626e5ffeae3f5a1761dfdb440a44"
+    },
+    {
+      "source": "tests/LiveProbePatcher.cs",
+      "published": "example/tests/LiveProbePatcher.cs",
+      "source_sha256": "c8cdfa833bafb3107173c475f074a6a99bd9568218e66c16d700a2491bb0e429",
+      "published_sha256": "c8cdfa833bafb3107173c475f074a6a99bd9568218e66c16d700a2491bb0e429"
+    },
+    {
+      "source": "tests/VerifyData.cs",
+      "published": "example/tests/VerifyData.cs",
+      "source_sha256": "64443d08b52bd02db8a82b16b233fce5cd5cc8318683763b9ced53fae7e41b55",
+      "published_sha256": "64443d08b52bd02db8a82b16b233fce5cd5cc8318683763b9ced53fae7e41b55"
+    },
+    {
+      "source": "tests/VerifyHooks.cs",
+      "published": "example/tests/VerifyHooks.cs",
+      "source_sha256": "5cf0ab91fc1ecb0a13d71546814e59cabf1336c0e7b25a88d58726298ead6b53",
+      "published_sha256": "5cf0ab91fc1ecb0a13d71546814e59cabf1336c0e7b25a88d58726298ead6b53"
+    },
+    {
+      "source": "tools/build-live-probe.ps1",
+      "published": "example/tools/build-live-probe.ps1",
+      "source_sha256": "66b614d8008340bae411bad9a10c2c7178b9e8f56df9d1e8f19ed5dec86e11db",
+      "published_sha256": "66b614d8008340bae411bad9a10c2c7178b9e8f56df9d1e8f19ed5dec86e11db"
+    },
+    {
+      "source": "tools/build.ps1",
+      "published": "example/tools/build.ps1",
+      "source_sha256": "b5b8d6d1216d70142cbc91faf07bc630c4d96e33792644a685abb2f88da0e05d",
+      "published_sha256": "b5b8d6d1216d70142cbc91faf07bc630c4d96e33792644a685abb2f88da0e05d"
+    },
+    {
+      "source": "tools/install-live-probe.ps1",
+      "published": "example/tools/install-live-probe.ps1",
+      "source_sha256": "98dfb204a5fc12826e54059eacf176c722aecdc68ae588a5e48baa70a4afa462",
+      "published_sha256": "98dfb204a5fc12826e54059eacf176c722aecdc68ae588a5e48baa70a4afa462"
+    },
+    {
+      "source": "tools/install.ps1",
+      "published": "example/tools/install.ps1",
+      "source_sha256": "5d376e7b16ef2b3e1efd340a8c38f613596f7532a823082be8125b0cbcb0e22b",
+      "published_sha256": "5d376e7b16ef2b3e1efd340a8c38f613596f7532a823082be8125b0cbcb0e22b"
+    },
+    {
+      "source": "tools/launch.ps1",
+      "published": "example/tools/launch.ps1",
+      "source_sha256": "9bf2a7910b5eb0782ff48e1e9df33a6847329537624110f48fa87d4b15b37140",
+      "published_sha256": "9bf2a7910b5eb0782ff48e1e9df33a6847329537624110f48fa87d4b15b37140"
+    },
+    {
+      "source": "tools/package-kitbash.ps1",
+      "published": "example/tools/package-kitbash.ps1",
+      "source_sha256": "bdb5dde902fe2d6b51e270357badb89212a695ff16809ecc8f33f5b815f23c43",
+      "published_sha256": "bdb5dde902fe2d6b51e270357badb89212a695ff16809ecc8f33f5b815f23c43"
+    },
+    {
+      "source": "tools/package.ps1",
+      "published": "example/tools/package.ps1",
+      "source_sha256": "0e0c70ebb6c1aea0446c18ae1956dc5067d1ee90ad725fa555d82c7c08d7fc06",
+      "published_sha256": "0e0c70ebb6c1aea0446c18ae1956dc5067d1ee90ad725fa555d82c7c08d7fc06"
+    },
+    {
+      "source": "tools/uninstall.ps1",
+      "published": "example/tools/uninstall.ps1",
+      "source_sha256": "2576f0cd8cf37978497fb7c5cc9a27cc2e59aa60e926dd9da04f60c8d9a4c13b",
+      "published_sha256": "2576f0cd8cf37978497fb7c5cc9a27cc2e59aa60e926dd9da04f60c8d9a4c13b"
+    },
+    {
+      "source": "tools/verify.ps1",
+      "published": "example/tools/verify.ps1",
+      "source_sha256": "b95eaf17ca8e02f85a04b6b064f62a8350b77be9f2fd1a01081cc4a0d955379d",
+      "published_sha256": "b95eaf17ca8e02f85a04b6b064f62a8350b77be9f2fd1a01081cc4a0d955379d"
+    },
+    {
+      "source": "tools/archive-install-package.py",
+      "published": "example/tools/archive-install-package.py",
+      "source_sha256": "577ea27f08e540aa6bfdff76b8dcc88eb7c484a968ad65e0dd840fd275ebc8ac",
+      "published_sha256": "577ea27f08e540aa6bfdff76b8dcc88eb7c484a968ad65e0dd840fd275ebc8ac"
+    },
+    {
+      "source": "tools/build-cruiser-kitbash.py",
+      "published": "example/tools/build-cruiser-kitbash.py",
+      "source_sha256": "9292cd497fb68fcb3a9a6b0e94cdad4c1ea76ac893a4eb84dd3a70e83e818cb7",
+      "published_sha256": "9292cd497fb68fcb3a9a6b0e94cdad4c1ea76ac893a4eb84dd3a70e83e818cb7"
+    },
+    {
+      "source": "tools/export-model-donors.py",
+      "published": "example/tools/export-model-donors.py",
+      "source_sha256": "d8459777202ba85f9abc740d9b0fcfd7d2185f6268ded8cc370055ee7e4cd8de",
+      "published_sha256": "d8459777202ba85f9abc740d9b0fcfd7d2185f6268ded8cc370055ee7e4cd8de"
+    },
+    {
+      "source": "tools/export-runtime-model.py",
+      "published": "example/tools/export-runtime-model.py",
+      "source_sha256": "dc73428059d66f2bbf2b42db85aaa79a83b49832735e0a6d731c6a77aac53411",
+      "published_sha256": "dc73428059d66f2bbf2b42db85aaa79a83b49832735e0a6d731c6a77aac53411"
+    },
+    {
+      "source": "tools/extract-khaaneph-voice-candidates.py",
+      "published": "example/tools/extract-khaaneph-voice-candidates.py",
+      "source_sha256": "19f4694831ebfd3a6bef9ffda183c5d0152b0127b6c140a791e287cc64b081e5",
+      "published_sha256": "19f4694831ebfd3a6bef9ffda183c5d0152b0127b6c140a791e287cc64b081e5"
+    },
+    {
+      "source": "tools/finish-kitbash-bridge.py",
+      "published": "example/tools/finish-kitbash-bridge.py",
+      "source_sha256": "3e080f1bee1026799a6f3269834b67ac44052062806111eb91491520c5a2ae61",
+      "published_sha256": "3e080f1bee1026799a6f3269834b67ac44052062806111eb91491520c5a2ae61"
+    },
+    {
+      "source": "tools/fit-kitbash-mounts.py",
+      "published": "example/tools/fit-kitbash-mounts.py",
+      "source_sha256": "7ace5c3d23648970b25a7835d3cd5c7f49076b790277ea365486e4f4e1dc56a9",
+      "published_sha256": "7ace5c3d23648970b25a7835d3cd5c7f49076b790277ea365486e4f4e1dc56a9"
+    },
+    {
+      "source": "tools/frame-kitbash-top.py",
+      "published": "example/tools/frame-kitbash-top.py",
+      "source_sha256": "bc4372b70ea3df4c9a0e4d1175f6e0c6d9185e3086339710cd9a8fe67748e235",
+      "published_sha256": "bc4372b70ea3df4c9a0e4d1175f6e0c6d9185e3086339710cd9a8fe67748e235"
+    },
+    {
+      "source": "tools/inspect-bridge-side.py",
+      "published": "example/tools/inspect-bridge-side.py",
+      "source_sha256": "521a45be159dc498439ea67f223dec2ce77450c7534b624bf4c6bad64d0ad6f0",
+      "published_sha256": "521a45be159dc498439ea67f223dec2ce77450c7534b624bf4c6bad64d0ad6f0"
+    },
+    {
+      "source": "tools/inspect-donor-bones.py",
+      "published": "example/tools/inspect-donor-bones.py",
+      "source_sha256": "578431bf2a603e4e01c287c4f97e0a2823783000f06c066dc8502164fe5f8bde",
+      "published_sha256": "6e3a6fed5c1e90fa3336b753c2f3590e7ac08ea19267470ef349e2170c64fae7"
+    },
+    {
+      "source": "tools/inspect-khaaneph-voices.py",
+      "published": "example/tools/inspect-khaaneph-voices.py",
+      "source_sha256": "18c9c30bc32789d8b7fe86617578b3dd01947f8bc2161467132a9e2f2526c8bf",
+      "published_sha256": "18c9c30bc32789d8b7fe86617578b3dd01947f8bc2161467132a9e2f2526c8bf"
+    },
+    {
+      "source": "tools/inspect-kitbash-bridge-housing.py",
+      "published": "example/tools/inspect-kitbash-bridge-housing.py",
+      "source_sha256": "604f470aa4a983bda53161304aa6155d4babf4b18d965503e4d9fd6d12132de4",
+      "published_sha256": "604f470aa4a983bda53161304aa6155d4babf4b18d965503e4d9fd6d12132de4"
+    },
+    {
+      "source": "tools/inspect-kitbash-deck-fit.py",
+      "published": "example/tools/inspect-kitbash-deck-fit.py",
+      "source_sha256": "afab2edc421de843f86674af673d6d890c96fa4653b49537e3d654fa39394684",
+      "published_sha256": "afab2edc421de843f86674af673d6d890c96fa4653b49537e3d654fa39394684"
+    },
+    {
+      "source": "tools/inspect-kitbash-deck.py",
+      "published": "example/tools/inspect-kitbash-deck.py",
+      "source_sha256": "084399cbe37e96e4311724a7e154b8ad263f1fd1532aa5db1a41b6a55e830c3a",
+      "published_sha256": "084399cbe37e96e4311724a7e154b8ad263f1fd1532aa5db1a41b6a55e830c3a"
+    },
+    {
+      "source": "tools/inspect-kitbash-service-pod.py",
+      "published": "example/tools/inspect-kitbash-service-pod.py",
+      "source_sha256": "dbf26b4155f8e31b536efbb33f55baa0dca8a42f7511fa187cb37f74940c3cc3",
+      "published_sha256": "dbf26b4155f8e31b536efbb33f55baa0dca8a42f7511fa187cb37f74940c3cc3"
+    },
+    {
+      "source": "tools/inspect-native-animation-contracts.py",
+      "published": "example/tools/inspect-native-animation-contracts.py",
+      "source_sha256": "e6904d7f100aa1e54cee2845e48162598f211bf6e45000733a923b15af4f5172",
+      "published_sha256": "e6904d7f100aa1e54cee2845e48162598f211bf6e45000733a923b15af4f5172"
+    },
+    {
+      "source": "tools/kitbash_mounts.py",
+      "published": "example/tools/kitbash_mounts.py",
+      "source_sha256": "9cf0920714e5b01d13ed219f76a581d5626fc1a67e2f458e94fe7650d8f55920",
+      "published_sha256": "9cf0920714e5b01d13ed219f76a581d5626fc1a67e2f458e94fe7650d8f55920"
+    },
+    {
+      "source": "tools/render-khaaneph-details.py",
+      "published": "example/tools/render-khaaneph-details.py",
+      "source_sha256": "bbbec74acd1a8609dae11083b93ef1564777f3e7587225be1fbe7463489017c4",
+      "published_sha256": "bbbec74acd1a8609dae11083b93ef1564777f3e7587225be1fbe7463489017c4"
+    },
+    {
+      "source": "tools/restore-native-kitbash-bridge.py",
+      "published": "example/tools/restore-native-kitbash-bridge.py",
+      "source_sha256": "45d1bae5a0faf137a1616a0249c04893f738f1dac4af0594c593d1089af3debd",
+      "published_sha256": "45d1bae5a0faf137a1616a0249c04893f738f1dac4af0594c593d1089af3debd"
+    },
+    {
+      "source": "tools/transcribe-native-voice-candidates.py",
+      "published": "example/tools/transcribe-native-voice-candidates.py",
+      "source_sha256": "4a7a8e85db30779851bdf0e89204615895046231b5280813b4e55be58315858c",
+      "published_sha256": "4a7a8e85db30779851bdf0e89204615895046231b5280813b4e55be58315858c"
+    },
+    {
+      "source": "tools/verify-kitbash.py",
+      "published": "example/tools/verify-kitbash.py",
+      "source_sha256": "14178a33a8a80e3d381717aaa615c9ef1fba7039eebb1cec52289fcc180447f3",
+      "published_sha256": "14178a33a8a80e3d381717aaa615c9ef1fba7039eebb1cec52289fcc180447f3"
+    },
+    {
+      "source": "docs/README.md",
+      "published": "example/docs/README.md",
+      "source_sha256": "550c4a8f1d559a7364d8dce711dfbe48354114fa09930b57b6c57a735da91bf5",
+      "published_sha256": "c33a0a11ea20cc3e417d3393eaa024dedbe129979df744d1f2af37ed5b589809"
+    },
+    {
+      "source": "docs/INSTALL.txt",
+      "published": "example/docs/INSTALL.txt",
+      "source_sha256": "b1e96b1347fd572513f8d0154002ea4d51d7c8433037f5f27c17749c880e31ec",
+      "published_sha256": "b1e96b1347fd572513f8d0154002ea4d51d7c8433037f5f27c17749c880e31ec"
+    },
+    {
+      "source": "docs/model-support.md",
+      "published": "example/docs/model-support.md",
+      "source_sha256": "d6f27b5b589f479beb7e5d0cc29d3115ed2dbfe0dfcca6cb0db54f3d86887e6e",
+      "published_sha256": "de6f218636f6b3dd811d6eeaf904dfda2a166a671261719a23f646a1b5d4c663"
+    },
+    {
+      "source": "docs/runtime-validation.md",
+      "published": "example/docs/runtime-validation.md",
+      "source_sha256": "703fdcb7e74a9e4734c584c5bb87eed1e5d0d557f93ca3c9e4283d1308e86b67",
+      "published_sha256": "543841d6a855979bfcd68b98704eb9bc8be3d7d287458efa5e18c63315e2e9af"
+    },
+    {
+      "source": "docs/behavior-map.md",
+      "published": "example/docs/behavior-map.md",
+      "source_sha256": "4e75f152653469c69e3204a61a0e7e6d978d6e474827dab924e24e7bbf07f956",
+      "published_sha256": "2068a245e37feb360f7b4af6a9cd6d5b7aef78ce855bda2a7d10939d6155929e"
+    },
+    {
+      "source": "release/KhaanephAssaultCruiser-1.1.0.zip",
+      "published": "example/release/KhaanephAssaultCruiser-1.1.0.zip",
+      "source_sha256": "6b49eca0dc1d173b9e82a995fe312a689ee8bdc4e19b25cbeeef3597c2980942",
+      "published_sha256": "6b49eca0dc1d173b9e82a995fe312a689ee8bdc4e19b25cbeeef3597c2980942"
+    },
+    {
+      "source": "release/KhaanephAssaultCruiser-1.1.0.zip.sha256",
+      "published": "example/release/KhaanephAssaultCruiser-1.1.0.zip.sha256",
+      "source_sha256": "f0e9b6c01565bfaf5f15ba643c80c6ff6a6c87166dd1e63070cb7a6cd685e4e8",
+      "published_sha256": "f0e9b6c01565bfaf5f15ba643c80c6ff6a6c87166dd1e63070cb7a6cd685e4e8"
+    },
+    {
+      "source": "tools/bepinex/BepInEx_win_x64_5.4.23.4.zip",
+      "published": "example/tools/bepinex/BepInEx_win_x64_5.4.23.4.zip",
+      "source_sha256": "f881201b79da03e513bf97cdf39607ffa7f9e0d31a519b1aeeca8eb60f8309e7",
+      "published_sha256": "f881201b79da03e513bf97cdf39607ffa7f9e0d31a519b1aeeca8eb60f8309e7"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/README.md",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/README.md",
+      "source_sha256": "08db3522caf35bac67eb4a70d3292771612230b70baee6a0e1fadfe7bbfd7722",
+      "published_sha256": "d7daf1baf6c9c5a329dad6a252e4b484b19158c70d25676e2fe13d0285d167fe"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/kitbash-manifest.json",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/kitbash-manifest.json",
+      "source_sha256": "a1ed3c8a747762079e513bcb078b207fe14f1286e3bf0c7fad9ed8a5cbe85bb6",
+      "published_sha256": "f99a39aa0a0a6311da3f3a42b4932a5f8c9ed66c4c289376f96a83a14ac4f5c3"
+    },
+    {
+      "source": "assets/runtime-model/model.json",
+      "published": "example/assets/runtime-model/model.json",
+      "source_sha256": "b48694858dc2d595d8df2d0bf09143ea76d23c8ef3aa53fd556149355599f9b1",
+      "published_sha256": "9fd9bcc9fc8c91cd2e0f44edb3a571a15367ebe8a21ca6095cc8bb15e0217575"
+    },
+    {
+      "source": "evidence/audio/approved-khaaneph-voices.json",
+      "published": "example/evidence/audio/approved-khaaneph-voices.json",
+      "source_sha256": "fe7febcc3792eeaed5a2a7b58a969c36fe615368f4111c2cb52bb54a43defc7c",
+      "published_sha256": "7153f29fc1b5fe865fae59f7275ab8fda600390dfafb9add3c15afff1f27c888"
+    },
+    {
+      "source": "evidence/audio/whisper-candidate-transcripts.json",
+      "published": "example/evidence/audio/whisper-candidate-transcripts.json",
+      "source_sha256": "f7b3537468be6dacee6e2467a67d14a8fad758bdb2235e2e3ec1dc615de4b122",
+      "published_sha256": "a29c5f35eebaf62bb1d3fe7c77a96b97a46599ea92fb8bf5a9ebd190a9602179"
+    },
+    {
+      "source": "evidence/code/bbi-unity-game-data-members.json",
+      "published": "example/evidence/code/bbi-unity-game-data-members.json",
+      "source_sha256": "cd09ba1e867387263a84076753a4d47bcf8d13a404e88b90aad3974c06fa441d",
+      "published_sha256": "afa431bd7dafe223c3abf7f3015ed72d98088342187550def0dbae172c810116"
+    },
+    {
+      "source": "evidence/initial-20261012/target.json",
+      "published": "example/evidence/initial-20261012/target.json",
+      "source_sha256": "c6d235579116c9c46c3474763160eaab2e774ef18dd2aaebfeece0ff0c7ba442",
+      "published_sha256": "58579ee2367f93ef3b7dfc2a10cad64cf9a65c309c7e31238182c14290805163"
+    },
+    {
+      "source": "evidence/models/game-match-round-0.png",
+      "published": "example/evidence/models/game-match-round-0.png",
+      "source_sha256": "5a51202e83c903c50ed61b5e0fa803524e2b3b1c2dc66792ba4f23a7c5c96217",
+      "published_sha256": "5a51202e83c903c50ed61b5e0fa803524e2b3b1c2dc66792ba4f23a7c5c96217"
+    },
+    {
+      "source": "evidence/models/game-preview-round-3.png",
+      "published": "example/evidence/models/game-preview-round-3.png",
+      "source_sha256": "0960e044f61814154d31a7d6c993af0a5fb4df30b39b5d9560263d7eed9a8c1f",
+      "published_sha256": "0960e044f61814154d31a7d6c993af0a5fb4df30b39b5d9560263d7eed9a8c1f"
+    },
+    {
+      "source": "evidence/models/kitbash-verification.json",
+      "published": "example/evidence/models/kitbash-verification.json",
+      "source_sha256": "ac07081eef60b5945b1f612c2f86d08c82650678dad2a33d6391301ab302254d",
+      "published_sha256": "ac07081eef60b5945b1f612c2f86d08c82650678dad2a33d6391301ab302254d"
+    },
+    {
+      "source": "evidence/models/native-animation-contracts.json",
+      "published": "example/evidence/models/native-animation-contracts.json",
+      "source_sha256": "ade25e91035c5023a6c7a88e270791614f699b98eeca4d19032993198b355d7a",
+      "published_sha256": "ede3389babdae466c23457ebd6a6f2b1bb860775f33d4521a6529908e7280226"
+    },
+    {
+      "source": "evidence/models/native-material-contracts.json",
+      "published": "example/evidence/models/native-material-contracts.json",
+      "source_sha256": "644e5b7d25f61c03b540813db505b4d2cb77dbc9d24595b3c2eab4e986ce8ffd",
+      "published_sha256": "d4407a794c3d0d15871d26a5ecdcb7bd29dea06d4057f3c63b803776f45773eb"
+    },
+    {
+      "source": "evidence/models/runtime-model-export.json",
+      "published": "example/evidence/models/runtime-model-export.json",
+      "source_sha256": "b48694858dc2d595d8df2d0bf09143ea76d23c8ef3aa53fd556149355599f9b1",
+      "published_sha256": "9fd9bcc9fc8c91cd2e0f44edb3a571a15367ebe8a21ca6095cc8bb15e0217575"
+    },
+    {
+      "source": "evidence/resources/RESOURCE_FINDINGS.md",
+      "published": "example/evidence/resources/RESOURCE_FINDINGS.md",
+      "source_sha256": "868058535ffbff3266f5b8edd68778f66e516b71c886b7459b3cfe454f0700df",
+      "published_sha256": "3bbe4eaaa5188097ec374514dd894d7f46b51b8c451b65323b48963fd6ea3f79"
+    },
+    {
+      "source": "evidence/resources/cruiser-transfer-evidence.json",
+      "published": "example/evidence/resources/cruiser-transfer-evidence.json",
+      "source_sha256": "ca8be2479b29410a20e9113c679f0824e33c59013bfb92f2532e35e252d1ae60",
+      "published_sha256": "b517b14249849f1983b472680767bdb8ef86c9cae5c529d31d7dc9577b858bca"
+    },
+    {
+      "source": "evidence/resources/worker-manifest.json",
+      "published": "example/evidence/resources/worker-manifest.json",
+      "source_sha256": "6605c8ab5ae97a5a067ad7b58b6a2aed8df22f101105aac3ccf92a24648b7671",
+      "published_sha256": "3f5c3091535969fc34a80aa603c25eee474f2d67feb861954ff05482f0d4b696"
+    },
+    {
+      "source": "evidence/runtime/21-kitbash-liveprobe.log",
+      "published": "example/evidence/runtime/21-kitbash-liveprobe.log",
+      "source_sha256": "64f8b5ce2faa410931b9ef885b7dfff7ede586e1ac3c13139d5f1ecf72d838cd",
+      "published_sha256": "e85d01181a898b5ee805c9e3d6a4cf301af9cff749babe6557010e8ca479b4e9"
+    },
+    {
+      "source": "evidence/runtime/installation-integrity.json",
+      "published": "example/evidence/runtime/installation-integrity.json",
+      "source_sha256": "071739ec1abddc65720415e99c216c868ff8eaa18f81f4ccd5d31ab66502f09d",
+      "published_sha256": "bead87b05bd36fa7f788f92e73f67a790f3fc24f9f493ccde1ae81f19d959f4d"
+    },
+    {
+      "source": "evidence/runtime/installation-package-integrity.json",
+      "published": "example/evidence/runtime/installation-package-integrity.json",
+      "source_sha256": "467b91b5aa995c271a29acc0834de53742ea55398d4a97a0df1387ceb551f117",
+      "published_sha256": "354f32baa061b21a5b3527df1a18c37b135c4cd29a83ec74d25b7531263193fd"
+    },
+    {
+      "source": "evidence/runtime/kitbash-native-verification.json",
+      "published": "example/evidence/runtime/kitbash-native-verification.json",
+      "source_sha256": "52cd60675040d728d14e0927b12f0f1272fa452509b5e5ed7fbf0f3ae8e1a168",
+      "published_sha256": "dcc222088e87986eb997ca4a7cde5d181db10d2082458daa10a26f280a36a525"
+    },
+    {
+      "source": "evidence/runtime/original-assets-integrity.json",
+      "published": "example/evidence/runtime/original-assets-integrity.json",
+      "source_sha256": "38ca9055ed658c4fa54c08bed429cb04b051740516262212d5b3265a0e0500c2",
+      "published_sha256": "651d6722e20da9d1c86fa166779cb1c1e2342ad4440e01f6431e7d256d744f52"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/Khaaneph_Assault_Cruiser.blend",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/Khaaneph_Assault_Cruiser.blend",
+      "source_sha256": "f49cbac23c4e74321ba441c11f7ff3e236c1a421040bdd5a9cc8584ecffa86b7",
+      "published_sha256": "3a902c9a1f829632fd9389e8a85ca8951ea16da35d0197c72ffad22a3bf2352f"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/Khaaneph_Assault_Cruiser.glb",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/Khaaneph_Assault_Cruiser.glb",
+      "source_sha256": "87a082c14b4bc068a2e3ab86ab75207b2d5a28635957843abd137fe37330b952",
+      "published_sha256": "d03722cf6292d624f3e9abd9563d04c5eb055593197aae1eb0b4e68ef6a87e6d"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/Khaaneph_Assault_Cruiser.fbx",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/Khaaneph_Assault_Cruiser.fbx",
+      "source_sha256": "7927f8951e8d2680516b3517740b8c1bda901e53f03951c50b1c3e554b570fec",
+      "published_sha256": "610d971e03f479baed41eb52f676c8799c750b4bd5df90f895cc6146d8acfcf4"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/K_AssaultCruiser_HullPaint.png",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/K_AssaultCruiser_HullPaint.png",
+      "source_sha256": "1b9d9babba7c0a2a529e88fc38825e19500c53ab007c476fc157d929bf8e62d5",
+      "published_sha256": "921fb3ba9630a691567e92c2c0f8e3ca9de3e96d9575873a08912c28cd38cdf5"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/preview.html",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/preview.html",
+      "source_sha256": "97a861f33be0612b78b68297769a44dfacd579377b50566ca9c5a27ebf4e0723",
+      "published_sha256": "33330d9b5896ade4538008fffa1bfe455269b244dd9bb026b00bb2a4cf800c08"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/front.png",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/front.png",
+      "source_sha256": "80c19dc1839e1b87dbc858c69bed278c97478fd66c18123bab3eb3990b97f0aa",
+      "published_sha256": "8b42616b5109ae86fb7ec25ee7b883caee81cbf39b080b6f37b935987aca2f97"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/top.png",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/top.png",
+      "source_sha256": "d80c81f12d6e068d96433ab2ac1ce2eaa1e1523db47e8d1c15752de02428da14",
+      "published_sha256": "ee97ce7b4c87d275df98d440097ad659a8039721e8e9b45f40c3758a03495235"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/rear.png",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/rear.png",
+      "source_sha256": "f3f6483f82bc32a17f5382ed288da84e2781d63af96cb64611b0d5a361cdfae1",
+      "published_sha256": "18b3b72331c1c94131e2afe8c599089e1bf5b85aba48cc0e7e74eb5c5a20783e"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/jaw-detail.png",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/jaw-detail.png",
+      "source_sha256": "9a8f7a1df0d411362beda1f71e7ae13958c1d15a03f740439ba34c61b707ff9a",
+      "published_sha256": "56efe17a14297150798ee7cf2a8e85cfa821689df1f1c8b540ab968a9dd8736f"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/bridge-detail.png",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/bridge-detail.png",
+      "source_sha256": "0ed94932039781267670b3136ac62487f899d9cda44e4bc503faf1f25aece97e",
+      "published_sha256": "a72734f75bf11fb721b67098c26d0e3360ba2250b7b315457c02642ae4fccf68"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/missile-recess-detail.png",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/missile-recess-detail.png",
+      "source_sha256": "a7ca4aa4b5984a26a5aa25a2f3f521d1c4ab80e864781ff3d093c322e32ee03c",
+      "published_sha256": "a0160b0c062dc21e3d87cdf88460d6869616fe61bb3944353f3536f5c1254458"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/original-comparison.png",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/original-comparison.png",
+      "source_sha256": "1b8be98562ca7f308970baccd50a6259099ab688061c35d76e6519306650f356",
+      "published_sha256": "7c30ba5dc28272846f8a2b00c5d4bc0bb9bd6a6b84912f258b110febd2424c9f"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/coalition_assault_reference.png",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/coalition_assault_reference.png",
+      "source_sha256": "720f32ed7fb11638c5641de8d63bf97b9721b9d22db7644fb06f79ead59856b9",
+      "published_sha256": "a9fe2efccd0b1ea35f831d5dd96093be240d6703156e90165b8dff0c0937969e"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/khaaneph_production_reference.png",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/khaaneph_production_reference.png",
+      "source_sha256": "8dc7a81421441544c19752d6b53d8a3fe86cc0f269f0452c04d48559ec33c00c",
+      "published_sha256": "0423f2f88335966c1f5c69a7e103cc8c65cf07ee3f0f7f40e3e7d9d13c74e29a"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/khaaneph_siege_reference.png",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/khaaneph_siege_reference.png",
+      "source_sha256": "772657d0bfee3b0887edd4ce6505776589c3f24321214142bcd50544c3bf7f3a",
+      "published_sha256": "52a0ac48aaf19acaf8fc27c8ab18574303c7b3b85f06ca9c4b779cc4a9141bf1"
+    },
+    {
+      "source": "assets/kitbash/khaaneph-assault-cruiser/khaaneph_baserunner_reference.png",
+      "published": "example/assets/kitbash/khaaneph-assault-cruiser/khaaneph_baserunner_reference.png",
+      "source_sha256": "158e9c66b6cb995dbb2421d5776e097636f9f185b95b7ff82f8b3e460c499ecc",
+      "published_sha256": "8237553506d930aef123feb0197c03f61fdbb8743ce0837fc3a7a5d609bb4ab5"
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+[
+  {
+    "file": "vo_khaaneph_cruiser_atk_cbtgengengen_t2_9318.wav",
+    "text": "I'm quite hostile, craft.",
+    "avg_logprob": [
+      -1.1157859683036804
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_atk_cbtgengengen_t2_9319.wav",
+    "text": "Established. Rendering attack.",
+    "avg_logprob": [
+      -0.6749531686306
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_atk_cbtgengengen_t2_9320.wav",
+    "text": "Bring me fire to target.",
+    "avg_logprob": [
+      -0.7507890595330132
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_atk_cbtgengengen_t2_9321.wav",
+    "text": "Tell your daughter, pursue.",
+    "avg_logprob": [
+      -0.913490719265408
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_atk_cbtgengengen_t2_9322.wav",
+    "text": "Advance and destroy.",
+    "avg_logprob": [
+      -0.6467158964702061
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_atk_cbtgengengen_t2_9323.wav",
+    "text": "Target verified!",
+    "avg_logprob": [
+      -0.7970428466796875
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_mov_cbtgengengen_t1_9474.wav",
+    "text": "Proceed to Gridmark.",
+    "avg_logprob": [
+      -0.6329542398452759
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_mov_cbtgengengen_t1_9475.wav",
+    "text": "Advance the mark zone.",
+    "avg_logprob": [
+      -0.9071328490972519
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_mov_cbtgengengen_t1_9476.wav",
+    "text": "Point verified, mobilizing now.",
+    "avg_logprob": [
+      -0.510513961315155
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_mov_cbtgengengen_t1_9477.wav",
+    "text": "destination walked in.",
+    "avg_logprob": [
+      -0.9480058806283134
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_mov_cbtgengengen_t1_9478.wav",
+    "text": "Move to destination.",
+    "avg_logprob": [
+      -0.5478160040719169
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_mov_cbtgengengen_t1_9479.wav",
+    "text": "Go on, that's verified.",
+    "avg_logprob": [
+      -0.8555617511272431
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_mov_cbtgengengen_t1_9480.wav",
+    "text": "Course verified.",
+    "avg_logprob": [
+      -0.756513774394989
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_mov_cbtgengengen_t1_9481.wav",
+    "text": "On a cruiser is underway.",
+    "avg_logprob": [
+      -0.660716692606608
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_mov_cbtgengengen_t1_9481_alt01.wav",
+    "text": "I'm in Marcus established.",
+    "avg_logprob": [
+      -0.7887707816229926
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_mov_cbtgengengen_t1_9482.wav",
+    "text": "A solid cruiser is underway.",
+    "avg_logprob": [
+      -0.6211698849995931
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_sel_cbtgengengen_t1_9502.wav",
+    "text": "Clues are in their solides.",
+    "avg_logprob": [
+      -0.8113726702603427
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_sel_cbtgengengen_t1_9502_alt01.wav",
+    "text": "On our cruising, deploy is needed.",
+    "avg_logprob": [
+      -0.7347597859122537
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_sel_cbtgengengen_t1_9503.wav",
+    "text": "Command link positive.",
+    "avg_logprob": [
+      -0.6184979847499302
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_sel_cbtgengengen_t1_9503_alt01.wav",
+    "text": "ready for mobile dispatch.",
+    "avg_logprob": [
+      -0.6625323742628098
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_sel_cbtgengengen_t1_9504.wav",
+    "text": "Crews are ready.",
+    "avg_logprob": [
+      -0.8362652808427811
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_sel_cbtgengengen_t1_9505.wav",
+    "text": "Command authority recognized.",
+    "avg_logprob": [
+      -0.6328967469079154
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_sel_cbtgengengen_t1_9506.wav",
+    "text": "The salt cruiser initialised.",
+    "avg_logprob": [
+      -0.7101153267754449
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_sel_cbtgengengen_t1_9507.wav",
+    "text": "Assault cruiser, deploy as needed.",
+    "avg_logprob": [
+      -0.6750339031219482
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_stp_cbtgengengen_t1_9518.wav",
+    "text": "She's advanced.",
+    "avg_logprob": [
+      -0.6311560188020978
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_stp_cbtgengengen_t1_9519.wav",
+    "text": "Should I roll?",
+    "avg_logprob": [
+      -0.9147465910230365
+    ]
+  },
+  {
+    "file": "vo_khaaneph_cruiser_stp_cbtgengengen_t1_9520.wav",
+    "text": "Stay craft.",
+    "avg_logprob": [
+      -1.0062376658121746
+    ]
+  },
+  {
+    "file": "vo_khaaneph_opsfleet_prc_opsgbtgengen_t1_13256_alt00.wav",
+    "text": "Honor guard cruiser, ready for service.",
+    "avg_logprob": [
+      -0.5619016560641202
+    ]
+  },
+  {
+    "file": "vo_khaaneph_opsfleet_prc_opsgbtgengen_t1_13256_alt01.wav",
+    "text": "On a good cruiser, ready for service.",
+    "avg_logprob": [
+      -0.5195881923039755
+    ]
+  },
+  {
+    "file": "vo_khaaneph_opsfleet_prc_opsgbtgengen_t1_13257_alt00.wav",
+    "text": "On a good freezer, online.",
+    "avg_logprob": [
+      -0.656129103899002
+    ]
+  },
+  {
+    "file": "vo_khaaneph_opsfleet_prc_opsgbtgengen_t1_13257_alt01.wav",
+    "text": "On across, create your online.",
+    "avg_logprob": [
+      -0.735297828912735
+    ]
+  },
+  {
+    "file": "vo_khaaneph_opsfleet_rsh_opsdefgengen_t1_13336_alt00.wav",
+    "text": "Auto court cruiser defense to keep abilities increased.",
+    "avg_logprob": [
+      -0.9662474393844604
+    ]
+  },
+  {
+    "file": "vo_khaaneph_opsfleet_rsh_opsdefgengen_t1_13336_alt01.wav",
+    "text": "on a growth-freeze of defensive capabilities increased.",
+    "avg_logprob": [
+      -0.5966026442391532
+    ]
+  },
+  {
+    "file": "vo_khaaneph_opsfleet_rsh_opsgbtgengen_t1_13282_alt00.wav",
+    "text": "On above, create your fabrication online.",
+    "avg_logprob": [
+      -0.7558248801664873
+    ]
+  },
+  {
+    "file": "vo_khaaneph_opsfleet_rsh_opsgbtgengen_t1_13282_alt01.wav",
+    "text": "On above, cruise your fabrication, online.",
+    "avg_logprob": [
+      -0.8213368008534113
+    ]
+  },
+  {
+    "file": "vo_khaaneph_opsfleet_rsh_opsgbtgengen_t1_13283_alt00.wav",
+    "text": "On our bed cruiser production, now available.",
+    "avg_logprob": [
+      -0.6909105877081553
+    ]
+  },
+  {
+    "file": "vo_khaaneph_opsfleet_rsh_opsgbtgengen_t1_13283_alt01.wav",
+    "text": "On of our freezer production, now available.",
+    "avg_logprob": [
+      -0.627099891503652
+    ]
+  },
+  {
+    "file": "vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13280_alt00.wav",
+    "text": "Research complete.",
+    "avg_logprob": [
+      -0.6653359532356262
+    ]
+  },
+  {
+    "file": "vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13280_alt01.wav",
+    "text": "Research complete.",
+    "avg_logprob": [
+      -0.6984321276346842
+    ]
+  },
+  {
+    "file": "vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13281_alt00.wav",
+    "text": "Research complete, production unlocked.",
+    "avg_logprob": [
+      -0.7186748716566298
+    ]
+  },
+  {
+    "file": "vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13281_alt01.wav",
+    "text": "Research complete, production unlocked.",
+    "avg_logprob": [
+      -0.5938998858133951
+    ]
+  },
+  {
+    "file": "vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13301_alt00.wav",
+    "text": "research complete.",
+    "avg_logprob": [
+      -0.6517823537190756
+    ]
+  },
+  {
+    "file": "vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13301_alt01.wav",
+    "text": "Research complete.",
+    "avg_logprob": [
+      -0.6702667971452078
+    ]
+  }
+]

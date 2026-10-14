@@ -1,0 +1,830 @@
+{
+  "sharedassets0.assets:505": {
+    "name": "MAT_Unit_G_BattleCruiser",
+    "colors": {
+      "_BaseColor": [
+        0.1568627506494522,
+        0.1568627506494522,
+        0.1568627506494522,
+        1.0
+      ],
+      "_Color": [
+        0.9921568632125854,
+        0.9921568632125854,
+        0.9921568632125854,
+        1.0
+      ],
+      "_DamageColor": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "_EmissionColor": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "_EmissionColorUI": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_SpecColor": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_TrimColor": [
+        0.8235294222831726,
+        0.04844290390610695,
+        0.04844290390610695,
+        1.0
+      ]
+    },
+    "floats": {
+      "_AlphaCutoff": 0.5,
+      "_BumpScale": 1.0,
+      "_Cutoff": 0.5,
+      "_DamageSpecular": 0.15000000596046448,
+      "_DamageToggle": 0.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DstBlend": 0.0,
+      "_EmissionScaleUI": 0.0,
+      "_Glossiness": 1.0,
+      "_GlowScale": 6.0,
+      "_Mode": 0.0,
+      "_NLIPSScale": 1.0,
+      "_OcclusionStrength": 1.0,
+      "_Parallax": 0.019999999552965164,
+      "_Shininess": 0.078125,
+      "_SrcBlend": 1.0,
+      "_UVSec": 0.0,
+      "_Visibility": 1.0,
+      "_ZWrite": 1.0
+    },
+    "textures": {
+      "_BumpMap": {
+        "key": "sharedassets0.assets:893",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_MainTex": {
+        "key": "sharedassets0.assets:1065",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_OcclusionMap": {
+        "key": "sharedassets0.assets:593",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_OverlayMask": {
+        "key": "sharedassets0.assets:882",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_Surface": {
+        "key": "sharedassets0.assets:1112",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      }
+    }
+  },
+  "sharedassets0.assets:530": {
+    "name": "MAT_Spongs",
+    "colors": {
+      "_BaseColor": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_Color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_DamageColor": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "_EmissionColor": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "_EmissionColorUI": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_SpecColor": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_TrimColor": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "floats": {
+      "_AlphaCutoff": 0.5,
+      "_BumpScale": 1.0,
+      "_Cutoff": 0.5,
+      "_DamageSpecular": 0.15000000596046448,
+      "_DamageToggle": 0.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DstBlend": 0.0,
+      "_EmissionScaleUI": 0.0,
+      "_Glossiness": 1.0,
+      "_GlowScale": 30.0,
+      "_Mode": 0.0,
+      "_NLIPSScale": 1.0,
+      "_OcclusionStrength": 1.0,
+      "_Parallax": 0.019999999552965164,
+      "_Shininess": 0.18293030560016632,
+      "_SrcBlend": 1.0,
+      "_UVSec": 0.0,
+      "_Visibility": 1.0,
+      "_ZWrite": 1.0
+    },
+    "textures": {
+      "_BumpMap": {
+        "key": "sharedassets0.assets:639",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_MainTex": {
+        "key": "sharedassets0.assets:630",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_OverlayMask": {
+        "key": "sharedassets0.assets:849",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_Surface": {
+        "key": "sharedassets0.assets:804",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      }
+    }
+  },
+  "sharedassets0.assets:529": {
+    "name": "MAT_Gack",
+    "colors": {
+      "_BaseColor": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_Color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_DamageColor": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "_EmissionColor": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "_EmissionColorUI": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_SpecColor": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_TrimColor": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "floats": {
+      "_AlphaCutoff": 0.5,
+      "_BumpScale": 1.0,
+      "_Cutoff": 0.5,
+      "_DamageSpecular": 0.15000000596046448,
+      "_DamageToggle": 0.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DstBlend": 0.0,
+      "_EmissionScaleUI": 0.0,
+      "_Glossiness": 1.0,
+      "_GlowScale": 40.0,
+      "_Mode": 0.0,
+      "_NLIPSScale": 1.0,
+      "_OcclusionStrength": 1.0,
+      "_Parallax": 0.019999999552965164,
+      "_SrcBlend": 1.0,
+      "_UVSec": 0.0,
+      "_Visibility": 1.0,
+      "_ZWrite": 1.0
+    },
+    "textures": {
+      "_BumpMap": {
+        "key": "sharedassets0.assets:828",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_MainTex": {
+        "key": "sharedassets0.assets:733",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_OverlayMask": {
+        "key": "sharedassets0.assets:974",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_Surface": {
+        "key": "sharedassets0.assets:927",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      }
+    }
+  },
+  "CAB-2e9fc07973a399cde98f3ed5a9cd833d:-1847155688693955723": {
+    "name": "MAT_Spongs",
+    "colors": {
+      "_BaseColor": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_Color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_DamageColor": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "_EmissionColor": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "_EmissionColorUI": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_SpecColor": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_TrimColor": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "floats": {
+      "_AlphaCutoff": 0.5,
+      "_BumpScale": 1.0,
+      "_Cutoff": 0.5,
+      "_DamageSpecular": 0.15000000596046448,
+      "_DamageToggle": 0.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DstBlend": 0.0,
+      "_EmissionScaleUI": 0.0,
+      "_Glossiness": 1.0,
+      "_GlowScale": 30.0,
+      "_Mode": 0.0,
+      "_NLIPSScale": 1.0,
+      "_OcclusionStrength": 1.0,
+      "_Parallax": 0.019999999552965164,
+      "_Shininess": 0.18293030560016632,
+      "_SrcBlend": 1.0,
+      "_UVSec": 0.0,
+      "_Visibility": 1.0,
+      "_ZWrite": 1.0
+    },
+    "textures": {
+      "_BumpMap": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:1223024368466782847",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_MainTex": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:-6221495821782564624",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_OverlayMask": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:7204060068175424885",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_Surface": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:-8013541331278764599",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      }
+    }
+  },
+  "CAB-2e9fc07973a399cde98f3ed5a9cd833d:6564577515574963432": {
+    "name": "MAT_Gack",
+    "colors": {
+      "_BaseColor": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_Color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_DamageColor": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "_EmissionColor": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "_EmissionColorUI": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_SpecColor": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_TrimColor": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "floats": {
+      "_AlphaCutoff": 0.5,
+      "_BumpScale": 1.0,
+      "_Cutoff": 0.5,
+      "_DamageSpecular": 0.15000000596046448,
+      "_DamageToggle": 0.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DstBlend": 0.0,
+      "_EmissionScaleUI": 0.0,
+      "_Glossiness": 1.0,
+      "_GlowScale": 40.0,
+      "_Mode": 0.0,
+      "_NLIPSScale": 1.0,
+      "_OcclusionStrength": 1.0,
+      "_Parallax": 0.019999999552965164,
+      "_SrcBlend": 1.0,
+      "_UVSec": 0.0,
+      "_Visibility": 1.0,
+      "_ZWrite": 1.0
+    },
+    "textures": {
+      "_BumpMap": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:5836837265363581674",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_MainTex": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:1192630688851987720",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_OverlayMask": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:7153845244917331312",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_Surface": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:-5104814626636756",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      }
+    }
+  },
+  "CAB-2e9fc07973a399cde98f3ed5a9cd833d:2017446634132943936": {
+    "name": "MAT_DLC0002_Unit_G_ArtilleryCruiser",
+    "colors": {
+      "_BaseColor": [
+        0.1568627506494522,
+        0.1568627506494522,
+        0.1568627506494522,
+        1.0
+      ],
+      "_Color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_DamageColor": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "_EmissionColor": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "_EmissionColorUI": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_SpecColor": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_TrimColor": [
+        0.8235294222831726,
+        0.04844290390610695,
+        0.04844290390610695,
+        1.0
+      ]
+    },
+    "floats": {
+      "_AlphaCutoff": 0.5,
+      "_BumpScale": 1.0,
+      "_Cutoff": 0.5,
+      "_DamageSpecular": 0.15000000596046448,
+      "_DamageToggle": 0.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DstBlend": 0.0,
+      "_EmissionScaleUI": 0.0,
+      "_Glossiness": 1.0,
+      "_GlowScale": 6.0,
+      "_Mode": 0.0,
+      "_NLIPSScale": 1.0,
+      "_OcclusionStrength": 1.0,
+      "_Parallax": 0.019999999552965164,
+      "_Shininess": 0.078125,
+      "_SrcBlend": 1.0,
+      "_UVSec": 0.0,
+      "_Visibility": 1.0,
+      "_ZWrite": 1.0
+    },
+    "textures": {
+      "_BumpMap": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:-1546241063555876979",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_MainTex": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:-5609317239559819114",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_OcclusionMap": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:-1037331542983901181",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_OverlayMask": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:-5232097913228169471",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_Surface": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:-5282047035689888089",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      }
+    }
+  },
+  "CAB-2e9fc07973a399cde98f3ed5a9cd833d:8852293890019458677": {
+    "name": "MAT_DLC0002_Unit_G_SupportCruiser",
+    "colors": {
+      "_BaseColor": [
+        0.988235354423523,
+        0.988235354423523,
+        0.988235354423523,
+        1.0
+      ],
+      "_Color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_DamageColor": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "_EmissionColor": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "_EmissionColorUI": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_SpecColor": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "_TrimColor": [
+        0.8235294222831726,
+        0.04844290390610695,
+        0.04844290390610695,
+        1.0
+      ]
+    },
+    "floats": {
+      "_BumpScale": 1.0,
+      "_Cutoff": 0.5,
+      "_DamageSpecular": 0.15000000596046448,
+      "_DamageToggle": 0.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DstBlend": 0.0,
+      "_EmissionScaleUI": 0.0,
+      "_Glossiness": 1.0,
+      "_GlowScale": 6.0,
+      "_Metallic": 0.0,
+      "_Mode": 0.0,
+      "_NLIPSScale": 1.0,
+      "_OcclusionStrength": 1.0,
+      "_Parallax": 0.019999999552965164,
+      "_SrcBlend": 1.0,
+      "_UVSec": 0.0,
+      "_Visibility": 1.0,
+      "_ZWrite": 1.0
+    },
+    "textures": {
+      "_BumpMap": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:4446646752091730062",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_MainTex": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:-8791922313472458873",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_OcclusionMap": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:2430033482568275825",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_OverlayMask": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:3334652537568113199",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "_Surface": {
+        "key": "CAB-2e9fc07973a399cde98f3ed5a9cd833d:-4725778962142319109",
+        "scale": [
+          1.0,
+          1.0
+        ],
+        "offset": [
+          0.0,
+          0.0
+        ]
+      }
+    }
+  }
+}

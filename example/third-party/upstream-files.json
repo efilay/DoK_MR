@@ -1,0 +1,50 @@
+[
+  {
+    "path": "source/BepInEx-v5.4.23.4.tar.gz",
+    "url": "https://api.github.com/repos/BepInEx/BepInEx/tarball/v5.4.23.4",
+    "bytes": 85637,
+    "sha256": "8d6784720d5addc5d40248deabefa050393b58921642d35baf454c9e3b6c28f0"
+  },
+  {
+    "path": "source/UnityDoorstop-v4.4.1.tar.gz",
+    "url": "https://api.github.com/repos/NeighTools/UnityDoorstop/tarball/v4.4.1",
+    "bytes": 87403,
+    "sha256": "a01a655f9f753f50e4ad94a73fc98eba3c8012538e6defbcf95698edff409c1f"
+  },
+  {
+    "path": "licenses/BepInEx-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/BepInEx/BepInEx/v5.4.23.4/LICENSE",
+    "bytes": 1062,
+    "sha256": "e6e534ef6f4347b6449407ee046a3d09cb0174c6f688c996ad0bed94b74b3933"
+  },
+  {
+    "path": "licenses/UnityDoorstop-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/NeighTools/UnityDoorstop/v4.4.1/LICENSE",
+    "bytes": 26526,
+    "sha256": "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331"
+  },
+  {
+    "path": "licenses/Mono.Cecil-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/jbevain/cecil/0.11.5/LICENSE.txt",
+    "bytes": 1098,
+    "sha256": "13d58ecbed676511c0c4c4009bff107025e50007ff5e7901dc562700ec62509e"
+  },
+  {
+    "path": "licenses/MonoMod-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/MonoMod/MonoMod/reorganize/LICENSE",
+    "bytes": 1080,
+    "sha256": "0b64833222e3c6a426ad29362d26334619fe02eaf2b89ea9c37805521896c920"
+  },
+  {
+    "path": "licenses/Harmony-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/pardeike/Harmony/master/LICENSE",
+    "bytes": 1073,
+    "sha256": "a5883d0c45eb7e176d3d1631220e7f96e958e37064773d40245ae6db560bbd6d"
+  },
+  {
+    "path": "licenses/HarmonyX-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/BepInEx/HarmonyX/master/LICENSE",
+    "bytes": 1063,
+    "sha256": "7e54ab4766ef78637a05fb3454663a66de6bb960dbd4c7088890ed76b0844f36"
+  }
+]

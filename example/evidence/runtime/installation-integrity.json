@@ -1,0 +1,273 @@
+{
+  "verified_at": "2026-10-13T21:58:19.5719730+03:00",
+  "version": "1.1.0",
+  "all_installed_payload_hashes_match": true,
+  "temporary_probe_removed": true,
+  "files": [
+    {
+      "path": ".doorstop_version",
+      "sha256": "c4650c1208019130cf87a65c435054f668ab023cb208faa439db2e1abd864071",
+      "matches": true
+    },
+    {
+      "path": "doorstop_config.ini",
+      "sha256": "4d5c6dfa0f771c6a5b1b0c559aca0bd0ece7d08b08fff894708dc3b73ce73cfc",
+      "matches": true
+    },
+    {
+      "path": "winhttp.dll",
+      "sha256": "c8d4f45ca81979acda889aaa1b4334e010b70e4c3960b15d323d2829ab424257",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/model.json",
+      "sha256": "b48694858dc2d595d8df2d0bf09143ea76d23c8ef3aa53fd556149355599f9b1",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/model.kac",
+      "sha256": "5c7b259701acbe583db01daf817bb1d81cbf3686ddb5d949028d96b8d213e26c",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/K_AssaultCruiser_HullPaint.png",
+      "sha256": "1b9d9babba7c0a2a529e88fc38825e19500c53ab007c476fc157d929bf8e62d5",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_00.png",
+      "sha256": "32d7e1b4323cd27ff21e6acc1c064b293d4c1a5529dbd352e43b58da35196ab9",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_01.png",
+      "sha256": "5ef270e9582d24cdec0c0a575f03e609cc27d50a7448f686dc4a7a7420d263f9",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_02.png",
+      "sha256": "01a4394e2fe3784b5aa17d30e166ab6905d62d617b8153fd1af5039a8e6f1c82",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_03.png",
+      "sha256": "3f4fbbc1c44eb15c73a2a45fd3f952a558f7cbcb4f54054dd86049edef0e8097",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_04.png",
+      "sha256": "067a493782e32118a8858f6614371e9e8115c963e20010a22db2432accbd2b38",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_05.png",
+      "sha256": "e20fe3c63763a47a3c7aaa68dfcbb8155e7a1b04db8db5374a32d1a56948a8e3",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_06.png",
+      "sha256": "2410e592106453a12f5b2715d87cdab3351a4c19a169f2707d4f20a790bdc216",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_07.png",
+      "sha256": "54214541d3b8fe4d07b1e9fd34cff606931da33c610b756465c30b860683fc5b",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_08.png",
+      "sha256": "b9ac238b912043474e85b0c4ef0f0d3c1fbd07d08fe2598af0489ed263ceee7e",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_09.png",
+      "sha256": "2b89a18c50fc63f3e3ab3c00cf8e756d87b354da2eba71900bc3eae8923090f8",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_10.png",
+      "sha256": "d4decc685c9330b4a09cb5da63326b22ac9a715be74633a58303a1b97de1f388",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_11.png",
+      "sha256": "b0775cba09eadf2fde241b35daa28cdcd03af6d23e99e0decd32b42f13f6d220",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_12.png",
+      "sha256": "9ed0a89bf29becccd9f621511d61c7125ff6e3b5002dded032d6f5885bc053d1",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_18.png",
+      "sha256": "e20fe3c63763a47a3c7aaa68dfcbb8155e7a1b04db8db5374a32d1a56948a8e3",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_19.png",
+      "sha256": "2410e592106453a12f5b2715d87cdab3351a4c19a169f2707d4f20a790bdc216",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_20.png",
+      "sha256": "54214541d3b8fe4d07b1e9fd34cff606931da33c610b756465c30b860683fc5b",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_21.png",
+      "sha256": "b9ac238b912043474e85b0c4ef0f0d3c1fbd07d08fe2598af0489ed263ceee7e",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_26.png",
+      "sha256": "3ba3c965c4ba5c27423e3b2f4836630cb378401628dd87cf8764b69c82148998",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_27.png",
+      "sha256": "983cf5638debc3f450c50bb529a0654c9a49e5c9706a2973f6c26cf912af8754",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_28.png",
+      "sha256": "79f6a4050f7e1fcaa02a699d42649b445ae59fd12f118730518b40885c9145d6",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_29.png",
+      "sha256": "1e5d665116b53be45e9268c2ad0f853e796cb85f87964821d486c28a8c192891",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_30.png",
+      "sha256": "680b52bf544e98a339d1f329d2c60c0fced62dd70bff155fa021f7c2e6bec74a",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_31.png",
+      "sha256": "93aa8f9f5f71d3f27b5bf662b96492a349e6bf01c7beb75f0b15e24acf2e3deb",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_32.png",
+      "sha256": "f853c037c1cd2407c41fc7488fb89cbdd84d58f9d12e4de8d6be72d554c83440",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_33.png",
+      "sha256": "38f81d6f57e4025fbd629002bae1dbda826f2a0a243aeff76103eb531aae3726",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_34.png",
+      "sha256": "ecdf87fc5d56104fb41e13e97e56eab726c44f7512a11883191d544dcafcade1",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/assets/KhaanephCruiser/textures/texture_35.png",
+      "sha256": "4b5d984a98a8217fc15fd571aefd86747129df0adcdaf3d50c6fa4632898cf26",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/0Harmony.dll",
+      "sha256": "1a21cc03424fc82c3dd1346905d16494536b9595ae4162228d99fb7c285c1031",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/0Harmony.xml",
+      "sha256": "d1f02fc3ada3a13da307de421225bfe56ebe24064370980979391c4be021672f",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/0Harmony20.dll",
+      "sha256": "bbf97a2dca0298d9e27c1f0e2d5c2f96ecc1ae30aaa821ddec7b948a9f878ae3",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/BepInEx.dll",
+      "sha256": "a64ac503266928d4a939821fba912b0510ba4af50a9649072f0c408146abad63",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Harmony.dll",
+      "sha256": "76dfe3bd2959ad12e5ef68bbb95b408f14eb5c54bdbbd56802dc681dedfc7bd7",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Harmony.xml",
+      "sha256": "a04fedf08f7c81f5d01aba6f2840a7ffce50b79bbd24587d8dbe69ab73971d29",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Preloader.dll",
+      "sha256": "24ea4f141eb34631fd3a978abba1c6b4519a4c257b5f0716e09241ddf48a8628",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Preloader.xml",
+      "sha256": "33275b2783b7b99495a02c098ee86d6a9a2783e884a5c9369021f20c94cf99e7",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/BepInEx.xml",
+      "sha256": "7ba2266061b9f8a9f146218a312bfdd0d7f2b53a99a7e66c957215c6b66ca0d7",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/HarmonyXInterop.dll",
+      "sha256": "48718fcb19f31f8a4549cb699ba890bf228b690983ba0c61fee81a1c76e4f851",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/KhaanephCruiser.Runtime.dll",
+      "sha256": "cc13b1887bb4b3f30e552a1714f454655d9dd4e589a34e7628bb9baa78e6722b",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.dll",
+      "sha256": "7ae470288fff4a402899c254d0a76cefef55877f5c54f96e83c797cc5bb6e2f6",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.Mdb.dll",
+      "sha256": "5896d1898f616701fff18f3b2c71e6b844d2390ef9f41e1c5fccce8cb27c698e",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.Pdb.dll",
+      "sha256": "174db44a067f58561510af746f3caeb032037762c57a31c8d9ee32db25174984",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.Rocks.dll",
+      "sha256": "54ac539fb5ddc8b44c0e9acd0fcb7324f89d1a072edf8ebc1b06dd691e3d3927",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/MonoMod.RuntimeDetour.dll",
+      "sha256": "40e49bb314391cd7bddc2644f8553eeba92c194b940836b103df16955c464e0c",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/MonoMod.RuntimeDetour.xml",
+      "sha256": "54887808960d156550b37d602d08847607aa9e908d039f2765fb0b5e79394aa4",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/MonoMod.Utils.dll",
+      "sha256": "9d1495f147ac93c4f81f84538c1a326e8f8a6aefc78d6289d798f3ce1162c5e9",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/core/MonoMod.Utils.xml",
+      "sha256": "0577b362023a3432d6e8d7934c5eddc3e08fdbb19e191af083e341562c5ede38",
+      "matches": true
+    },
+    {
+      "path": "BepInEx/patchers/KhaanephCruiser.Patcher.dll",
+      "sha256": "c9b49760b1d9744f295068b0d694d277a41acd8912e3e36491908a1f00f72d6b",
+      "matches": true
+    }
+  ]
+}

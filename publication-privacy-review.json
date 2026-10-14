@@ -1,0 +1,10 @@
+{
+  "tracked_files_scanned": 104,
+  "zip_entries_scanned": 83,
+  "personal_name_or_path_matches": 0,
+  "credential_pattern_matches": 0,
+  "commit_identity": "DoK_MR <noreply@example.invalid>",
+  "png_metadata_removed_without_pixel_changes": true,
+  "model_metadata_sanitized_and_roundtrips_verified": true,
+  "note": "Repository ownership remains visible on GitHub as explicitly requested. Third-party author/license attribution is preserved."
+}

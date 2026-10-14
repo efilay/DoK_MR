@@ -1,0 +1,191 @@
+{
+  "name": "Khaaneph Assault Cruiser",
+  "stage": "textured kitbash prototype",
+  "native_unit_key": "K_HonorGuard_MP",
+  "original_rig_transforms": 57,
+  "coordinate_system": "Blender Z-up; native transform data retained in donor export",
+  "parts": [
+    {
+      "part": "Assault cruiser original weapons and rear suspension",
+      "donor": "coalition_assault",
+      "vertices": 11946,
+      "triangles": 9097,
+      "attachment": "original skin",
+      "donor_transform": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "removed": "Cut-off original conning-tower base and its small antenna remnants",
+      "paint": "Both cylindrical turret caps use the original pale material"
+    },
+    {
+      "part": "Khaaneph rectangular armored hull",
+      "donor": "khaaneph_siege",
+      "vertices": 36153,
+      "triangles": 33913,
+      "attachment": "RIG_BattleCruiser_Chassis",
+      "donor_transform": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "missile_recesses": [
+        {
+          "bounds": [
+            -11.7,
+            -0.55,
+            -44.5,
+            -30.2
+          ],
+          "floor_z": 23.15,
+          "rim_z": [
+            25.75415802001953,
+            25.75415802001953,
+            25.747177124023438,
+            25.747169494628906
+          ],
+          "depth": 2.5971694946289077
+        },
+        {
+          "bounds": [
+            0.55,
+            11.7,
+            -44.5,
+            -30.2
+          ],
+          "floor_z": 23.15,
+          "rim_z": [
+            25.75415802001953,
+            25.754165649414062,
+            25.747169494628906,
+            25.747177124023438
+          ],
+          "depth": 2.5971694946289077
+        }
+      ]
+    },
+    {
+      "part": "Port wide armored jaw stabilizer",
+      "donor": "khaaneph_production",
+      "vertices": 5475,
+      "triangles": 7214,
+      "attachment": "RIG_BattleCruiser_Susp_FLT",
+      "donor_transform": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          5.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "part": "Starboard wide armored jaw stabilizer",
+      "donor": "khaaneph_production",
+      "vertices": 5475,
+      "triangles": 7214,
+      "attachment": "RIG_BattleCruiser_Susp_FRT",
+      "donor_transform": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          5.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "part": "Khaaneph marked deck armor",
+      "donor": "Production cruiser texture / new plate geometry",
+      "attachment": "RIG_BattleCruiser_Chassis",
+      "vertices": 16,
+      "triangles": 28,
+      "finish": "Thin marked insert fitted flush to the hull perimeter"
+    }
+  ],
+  "note": "No original game archives or installed DLLs were changed.",
+  "bridge": "Complete native Khaaneph bridge retained with the rectangular hull",
+  "revision": "Recessed missile rack, flush insert and cleaned bridge; decorative pod removed",
+  "removed_decoration": [
+    "Baserunner service pod and its mounting bracket"
+  ]
+}

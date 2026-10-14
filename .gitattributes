@@ -1,0 +1,15 @@
+* text=auto eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.cs text eol=lf
+*.ps1 text eol=crlf
+*.json text eol=lf
+*.log text eol=lf
+*.blend binary
+*.glb binary
+*.fbx binary
+*.zip binary
+*.gz binary
+*.png binary
+*.kac binary
+*.mp4 binary

@@ -1,0 +1,620 @@
+{
+  "format": "KAC2",
+  "version": 2,
+  "bones": [
+    "Unit_G_BattleCruiser",
+    "CAM_Target",
+    "COL_G_BattleCruiser",
+    "GEO_G_BattleCruiser_LOD0",
+    "GEO_G_BattleCruiser_LOD1",
+    "GEO_G_BattleCruiser_LOD2",
+    "RIG_BattleCruiser_Root",
+    "RIG_BattleCruiser_Chassis",
+    "FX_BattleCruiser_MissileBay2_LFL",
+    "FX_BattleCruiser_MissileBay_LBL",
+    "FX_BattleCruiser_MissileBay_LBR",
+    "FX_BattleCruiser_MissileBay_LFR",
+    "FX_BattleCruiser_MissileBay_RBL",
+    "FX_BattleCruiser_MissileBay_RBR",
+    "FX_BattleCruiser_MissileBay_RFL",
+    "FX_BattleCruiser_MissileBay_RFR",
+    "FX_BattleCruiser_Vent_BL",
+    "FX_BattleCruiser_Vent_BR",
+    "FX_BattleCruiser_Vent_FL",
+    "FX_BattleCruiser_Vent_FR",
+    "RIG_BattleCruiser_ConningTower",
+    "FX_BattleCruiser_CockpitDamage",
+    "RIG_BattleCruiser_ConningTower_Antenna",
+    "RIG_BattleCruiser_FrontTurret_Rot",
+    "FX_BattleCruiser_FrontTurretDamage",
+    "RIG_BattleCruiser_FrontTurret_Pitch",
+    "RIG_BattleCruiser_FrontTurret_Barrel_L",
+    "FX_FrontTurret_Muzzle_L",
+    "RIG_BattleCruiser_FrontTurret_Barrel_R",
+    "FX_FrontTurret_Muzzle_R",
+    "RIG_BattleCruiser_MissileBay1_Hatch1",
+    "RIG_BattleCruiser_MissileBay1_Hatch2",
+    "RIG_BattleCruiser_MissileBay1_Hatch3",
+    "RIG_BattleCruiser_MissileBay1_Hatch4",
+    "RIG_BattleCruiser_MissileBay2_Hatch1",
+    "RIG_BattleCruiser_MissileBay2_Hatch2",
+    "RIG_BattleCruiser_MissileBay2_Hatch3",
+    "RIG_BattleCruiser_MissileBay2_Hatch4",
+    "RIG_BattleCruiser_MisslePod_L",
+    "RIG_BattleCruiser_MisslePod_R",
+    "RIG_BattleCruiser_RearTurret_Rot",
+    "FX_BattleCruiser_RearTurretDamage",
+    "RIG_BattleCruiser_RearTurret_Pitch",
+    "RIG_BattleCruiser_RearTurret_Barrel_L",
+    "FX_RearTurret_Muzzle_L",
+    "RIG_BattleCruiser_RearTurret_Barrel_R",
+    "FX_RearTurret_Muzzle_R",
+    "RIG_BattleCruiser_Susp_BL",
+    "RIG_BattleCruiser_Susp_BR",
+    "RIG_BattleCruiser_Susp_FLB",
+    "RIG_BattleCruiser_Susp_FLT",
+    "RIG_BattleCruiser_Susp_FRB",
+    "RIG_BattleCruiser_Susp_FRT",
+    "RIG_BattleCruiser_Wheel_BL",
+    "RIG_BattleCruiser_Wheel_BR",
+    "RIG_BattleCruiser_Wheel_FL",
+    "RIG_BattleCruiser_Wheel_FR"
+  ],
+  "materials": [
+    {
+      "name": "Khaaneph burnt orange retained hull",
+      "template": "MAT_Unit_G_BattleCruiser",
+      "plain": false,
+      "white_caps": false,
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "textures": {
+        "_BumpMap": {
+          "file": "textures/texture_00.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_MainTex": {
+          "file": "textures/K_AssaultCruiser_HullPaint.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_OcclusionMap": {
+          "file": "textures/texture_02.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_OverlayMask": {
+          "file": "textures/texture_03.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_Surface": {
+          "file": "textures/texture_04.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        }
+      }
+    },
+    {
+      "name": "White Assault Cruiser turret caps",
+      "template": "MAT_Unit_G_BattleCruiser",
+      "plain": false,
+      "white_caps": true,
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "textures": {
+        "_BumpMap": {
+          "file": "textures/texture_00.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_MainTex": {
+          "file": "textures/texture_01.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_OcclusionMap": {
+          "file": "textures/texture_02.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_OverlayMask": {
+          "file": "textures/texture_03.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_Surface": {
+          "file": "textures/texture_04.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        }
+      }
+    },
+    {
+      "name": "MAT_Spongs",
+      "template": "MAT_Spongs",
+      "plain": false,
+      "white_caps": false,
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "textures": {
+        "_BumpMap": {
+          "file": "textures/texture_05.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_MainTex": {
+          "file": "textures/texture_06.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_OverlayMask": {
+          "file": "textures/texture_07.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_Surface": {
+          "file": "textures/texture_08.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        }
+      }
+    },
+    {
+      "name": "MAT_Gack",
+      "template": "MAT_Gack",
+      "plain": false,
+      "white_caps": false,
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "textures": {
+        "_BumpMap": {
+          "file": "textures/texture_09.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_MainTex": {
+          "file": "textures/texture_10.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_OverlayMask": {
+          "file": "textures/texture_11.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_Surface": {
+          "file": "textures/texture_12.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        }
+      }
+    },
+    {
+      "name": "MAT_DLC0002_Unit_G_ArtilleryCruiser.001",
+      "template": "MAT_DLC0002_Unit_G_ArtilleryCruiser",
+      "plain": false,
+      "white_caps": false,
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "textures": {
+        "_BumpMap": {
+          "file": "textures/texture_26.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_MainTex": {
+          "file": "textures/texture_27.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_OcclusionMap": {
+          "file": "textures/texture_28.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_OverlayMask": {
+          "file": "textures/texture_29.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_Surface": {
+          "file": "textures/texture_30.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        }
+      }
+    },
+    {
+      "name": "Exposed dark frame",
+      "template": "MAT_Unit_G_BattleCruiser",
+      "plain": true,
+      "white_caps": false,
+      "color": [
+        0.054999999701976776,
+        0.06300000101327896,
+        0.06400000303983688,
+        1.0
+      ],
+      "textures": {}
+    },
+    {
+      "name": "MAT_DLC0002_Unit_G_SupportCruiser",
+      "template": "MAT_DLC0002_Unit_G_SupportCruiser",
+      "plain": false,
+      "white_caps": false,
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "textures": {
+        "_BumpMap": {
+          "file": "textures/texture_31.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_MainTex": {
+          "file": "textures/texture_32.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_OcclusionMap": {
+          "file": "textures/texture_33.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_OverlayMask": {
+          "file": "textures/texture_34.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_Surface": {
+          "file": "textures/texture_35.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        }
+      }
+    },
+    {
+      "name": "MAT_DLC0002_Spongs",
+      "template": "MAT_DLC0002_Spongs",
+      "plain": false,
+      "white_caps": false,
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "textures": {
+        "_BumpMap": {
+          "file": "textures/texture_18.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_MainTex": {
+          "file": "textures/texture_19.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_OverlayMask": {
+          "file": "textures/texture_20.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        },
+        "_Surface": {
+          "file": "textures/texture_21.png",
+          "scale": [
+            1.0,
+            1.0
+          ],
+          "offset": [
+            0.0,
+            0.0
+          ]
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Assault cruiser original weapons and rear suspension",
+      "lod": 0,
+      "vertices": 12688,
+      "triangles": 9097
+    },
+    {
+      "name": "Khaaneph rectangular armored hull",
+      "lod": 0,
+      "vertices": 36390,
+      "triangles": 33913
+    },
+    {
+      "name": "Port wide armored jaw stabilizer",
+      "lod": 0,
+      "vertices": 5503,
+      "triangles": 7214
+    },
+    {
+      "name": "Starboard wide armored jaw stabilizer",
+      "lod": 0,
+      "vertices": 5503,
+      "triangles": 7214
+    },
+    {
+      "name": "Khaaneph marked deck armor",
+      "lod": 0,
+      "vertices": 78,
+      "triangles": 28
+    },
+    {
+      "name": "Assault cruiser original weapons and rear suspension",
+      "lod": 1,
+      "vertices": 7463,
+      "triangles": 4366
+    },
+    {
+      "name": "Khaaneph rectangular armored hull",
+      "lod": 1,
+      "vertices": 24070,
+      "triangles": 16278
+    },
+    {
+      "name": "Port wide armored jaw stabilizer",
+      "lod": 1,
+      "vertices": 3288,
+      "triangles": 3461
+    },
+    {
+      "name": "Starboard wide armored jaw stabilizer",
+      "lod": 1,
+      "vertices": 3288,
+      "triangles": 3461
+    },
+    {
+      "name": "Khaaneph marked deck armor",
+      "lod": 1,
+      "vertices": 36,
+      "triangles": 12
+    },
+    {
+      "name": "Assault cruiser original weapons and rear suspension",
+      "lod": 2,
+      "vertices": 3312,
+      "triangles": 1728
+    },
+    {
+      "name": "Khaaneph rectangular armored hull",
+      "lod": 2,
+      "vertices": 11539,
+      "triangles": 6443
+    },
+    {
+      "name": "Port wide armored jaw stabilizer",
+      "lod": 2,
+      "vertices": 1827,
+      "triangles": 1370
+    },
+    {
+      "name": "Starboard wide armored jaw stabilizer",
+      "lod": 2,
+      "vertices": 1827,
+      "triangles": 1370
+    },
+    {
+      "name": "Khaaneph marked deck armor",
+      "lod": 2,
+      "vertices": 12,
+      "triangles": 4
+    }
+  ]
+}

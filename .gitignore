@@ -1,0 +1,16 @@
+# Local builds, extracted installation payload and dependencies.
+example/dist/
+example/release/KhaanephAssaultCruiser/
+example/assets/runtime-model/model.kac
+example/assets/runtime-model/textures/
+example/assets/kitbash/donors/
+example/tools/bepinex/5.4.23.4/
+example/work/
+example/evidence/code/verification/
+example/assets/voices/
+__pycache__/
+*.pyc
+*.blend1
+.env
+.env.*
+!.env.example

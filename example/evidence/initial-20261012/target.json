@@ -1,0 +1,16 @@
+{
+  "game": "Homeworld: Deserts of Kharak",
+  "install_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Deserts of Kharak",
+  "steam_buildid": "12339551",
+  "unity_version": "5.2.2f1",
+  "engine_evidence": "Data\\output_log.txt first line and DesertsOfKharak64.exe version metadata",
+  "runtime": "Mono (confirmed by installed assembly reload log)",
+  "requested_change": "Shuffle several units; exact unit changes pending user specification",
+  "rea_version": "6.3.0",
+  "rea_package": "<local-rea-installation>",
+  "rea_evidence_ids": [
+    "ev_948df56284129c464b940048ae8714006b4413d475a1026ef1c717005da21441",
+    "ev_592760e0de22faf04f0eb15616415cbe7d4c2ad7ec862da43f1764b3b14c1cf8"
+  ],
+  "game_files_modified": false
+}

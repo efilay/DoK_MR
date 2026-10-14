@@ -1,0 +1,27 @@
+{
+  "source": "Installed native Khaaneph bank",
+  "recordings": [
+    "vo_khaaneph_cruiser_sel_cbtgengengen_t1_9503",
+    "vo_khaaneph_cruiser_sel_cbtgengengen_t1_9504",
+    "vo_khaaneph_cruiser_sel_cbtgengengen_t1_9505",
+    "vo_khaaneph_cruiser_mov_cbtgengengen_t1_9474",
+    "vo_khaaneph_cruiser_mov_cbtgengengen_t1_9476",
+    "vo_khaaneph_cruiser_mov_cbtgengengen_t1_9478",
+    "vo_khaaneph_cruiser_mov_cbtgengengen_t1_9480",
+    "vo_khaaneph_cruiser_atk_cbtgengengen_t2_9319",
+    "vo_khaaneph_cruiser_atk_cbtgengengen_t2_9320",
+    "vo_khaaneph_cruiser_atk_cbtgengengen_t2_9322",
+    "vo_khaaneph_cruiser_atk_cbtgengengen_t2_9323",
+    "vo_khaaneph_cruiser_stp_cbtgengengen_t1_9518",
+    "vo_khaaneph_cruiser_stp_cbtgengengen_t1_9520",
+    "vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13281_alt00",
+    "vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13281_alt01",
+    "vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13280_alt00",
+    "vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13280_alt01",
+    "vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13301_alt00",
+    "vo_khaaneph_opsfleet_rsh_opsgengengen_t1_13301_alt01"
+  ],
+  "local_asr": "whisper-candidate-transcripts.json",
+  "cloud_audio_uploads": false,
+  "note": "Generic responses selected to exclude Honor Guard announcements; rare combat/ability dialogue keeps the original native event response."
+}
